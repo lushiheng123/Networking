@@ -5,3 +5,7 @@
 # 2.MPLS 标签的取值范围是多少？
 
 ![alt text](image-5.png)
+
+# 3. MPLS 标签转发过程？
+
+![alt text](image-6.png)
