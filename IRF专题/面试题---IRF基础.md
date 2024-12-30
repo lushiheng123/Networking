@@ -15,6 +15,6 @@
 
 ![alt text](image-6.png)
 
-# 5. IRF 谁担任主设备？
+# 5. IRF 谁担任主设备？IRF 选举？
 
 ![alt text](image-7.png)
