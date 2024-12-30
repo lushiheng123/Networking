@@ -7,3 +7,7 @@
 
 ![alt text](images/面试题---OSPF选路/image-1.png)
 ![alt text](images/面试题---OSPF选路/image-2.png)
+
+# 3. OSPF 选路？
+
+![alt text](images/面试题---OSPF选路/image-3.png)

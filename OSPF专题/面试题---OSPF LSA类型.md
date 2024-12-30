@@ -9,3 +9,7 @@
 # 3. 7 转 5 设备锁是什么？
 
 ![alt text](<images/面试题---OSPF LSA类型/image-1.png>)
+
+# 4. LSA 怎么比较新旧？
+
+![alt text](<images/面试题---OSPF LSA类型/image-2.png>)
