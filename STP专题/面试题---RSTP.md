@@ -5,3 +5,7 @@
 # 2. RSTP 的 P/A 机制是什么？
 
 ![alt text](image-6.png)
+
+# 3. RSTP 相比于 STP 的优势？
+
+![alt text](image-12.png)
