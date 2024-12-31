@@ -22,3 +22,7 @@
 # 6. 为什么 AH 不提供加密？
 
 ![alt text](images/面试题---IPSEC基础/image-4.png)
+
+# 7. 说一下什么是 IPSEC ？
+
+![alt text](images/面试题---IPSEC基础/image-5.png)
