@@ -1,6 +1,7 @@
-# 1. VRRP 有哪些报文？
+# 1. VRRP 有哪些报文？VRID 的 MAC 地址？
 
 ![alt text](image.png)
+![alt text](images/面试题---VRRP基础/image-2.png)
 
 # 2. VRRP 优先级的取值范围？
 
@@ -13,3 +14,7 @@
 # 4. VRRP 选举主路由的条件？
 
 ![alt text](images/面试题---VRRP基础/image-1.png)
+
+# 5. VRRP 的报文组成？
+
+![alt text](images/面试题---VRRP基础/image-3.png)
