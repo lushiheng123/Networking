@@ -21,3 +21,8 @@
 # 6. STP 端口状态？RSTP 端口状态？
 
 ![alt text](images/面试题---STP基础/image-4.png)
+
+# 7. STP 收敛为什么要 30-50s？
+
+![alt text](images/面试题---STP基础/image-6.png)
+![alt text](images/面试题---STP基础/image-5.png)
