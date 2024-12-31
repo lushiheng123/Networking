@@ -9,3 +9,7 @@
 # 3. 你说一下有哪些字段用于 QoS 吧？
 
 ![alt text](images/面试题---QoS基础/image-1.png)
+
+# 4. 实战中怎么做 QoS?
+
+![alt text](images/面试题---QoS基础/image-2.png)

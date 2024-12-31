@@ -9,3 +9,7 @@
 # 3. MPLS 标签转发过程？
 
 ![alt text](image-6.png)
+# 4. 如何判断是一个MPLS标签？
+![alt text](<images/面试题---MPLS 基础/image.png>)
+
+# 5. 如何判断

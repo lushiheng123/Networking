@@ -17,3 +17,7 @@
 # 5.M-LAG 系统建立的过程？
 
 ![alt text](images/面试题---M-LAG基础/image-4.png)
+
+# 6. M-LAG 怎么选主从？
+
+![alt text](images/面试题---M-LAG基础/image-5.png)
