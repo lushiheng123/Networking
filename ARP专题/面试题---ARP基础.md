@@ -1,6 +1,6 @@
 # 1. ARP 原理？
 
-![alt text](images/面试题---ARP基础/image.png)
+![alt text](images/面试题---ARP基础/image-3.png)
 
 # 2.ARP 类型？
 
