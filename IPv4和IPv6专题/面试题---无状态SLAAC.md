@@ -14,3 +14,7 @@
 # 4. DHCPv6 如何实现无状态 SLAAC？
 
 ![alt text](images/面试题---无状态SLAAC/image-4.png)
+
+# 5. MO 位是怎么影响 DHCPv6 分配地址的？
+
+![alt text](images/面试题---无状态SLAAC/image-5.png)
