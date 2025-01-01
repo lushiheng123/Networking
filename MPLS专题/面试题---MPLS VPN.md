@@ -5,3 +5,7 @@
 # 2. MPLS VPN 跨域的三种方案？
 
 ![alt text](<images/面试题---MPLS VPN/image.png>)
+
+# 3. MPLS VPN 有几层标签？
+
+![alt text](<images/面试题---MPLS VPN/image-1.png>)

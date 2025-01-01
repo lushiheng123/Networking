@@ -1,5 +1,6 @@
 # 1. LDP 原理？
 
+![alt text](images/面试题---LDP协议/image-5.png)
 ![alt text](images/面试题---LDP协议/image.png)
 
 # 2. LDP 标签发布模式？
