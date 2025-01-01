@@ -29,3 +29,11 @@
 # 7. 什么是 BGP 同步？
 
 ![alt text](images/面试题---BGP基础/image-9.png)
+
+# 8. BGP 哪些路由进入路由表？能宣告哪些路由？
+
+![alt text](images/面试题---BGP基础/image-10.png)
+
+# 9.BGP 邻居失效的原因？
+
+![alt text](images/面试题---BGP基础/image-11.png)
