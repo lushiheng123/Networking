@@ -5,7 +5,7 @@
 
 # 2. DIS 选举条件？
 
-![alt text](images/面试题---DIS基础/image-2.png)
+![alt text](images/面试题---DIS基础/image-5.png)
 
 # 3. DIS 和 OSPF 的 DR 的区别？
 

@@ -5,3 +5,4 @@
 # 2. STUB 区域能引入虚链路吗？
 
 ![alt text](images/面试题---OSPF虚链路/image-1.png)
+

@@ -37,3 +37,5 @@
 # 9.BGP 邻居失效的原因？
 
 ![alt text](images/面试题---BGP基础/image-11.png)
+# 10. BGP是几层协议？
+![alt text](images/面试题---BGP基础/image-12.png)
