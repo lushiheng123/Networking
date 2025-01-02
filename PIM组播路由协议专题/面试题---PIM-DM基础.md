@@ -1,4 +1,7 @@
-# 1. PIM-DM的工作机制？
-![alt text](images/面试题---PIM-DM基础/image.png)
-![alt text](images/面试题---PIM-DM基础/image-1.png)
-![alt text](images/面试题---PIM-DM基础/image-2.png)
+# 1. PIM-DM 的工作机制？
+
+![alt text](images/面试题---PIM-DM基础/image-4.png)
+
+# 2. PIM-DM 的断言机制是什么？
+
+![alt text](images/面试题---PIM-DM基础/image-3.png)
