@@ -11,10 +11,14 @@
 
 ![alt text](image-2.png)
 
-# 4. IRF 怎么检查堆叠分裂？
+# 4. IRF 怎么检查堆叠分裂？Domain ID 和 Active ID 是什么？
 
-![alt text](image-6.png)
+![alt text](images/面试题---IRF基础/image-1.png)
 
-# 5. IRF 谁担任主设备？IRF 选举？
+# 5. 如果 Active ID 冲突了会怎么样？
+
+![alt text](images/面试题---IRF基础/image-2.png)
+
+# 6. IRF 谁担任主设备？IRF 选举？
 
 ![alt text](image-7.png)
