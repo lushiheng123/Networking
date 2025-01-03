@@ -1,6 +1,6 @@
 # IPV6 地址分类？
 
-![alt text](images/面试题---IPV6基础/image-3.png)
+![alt text](images/面试题---IPV6基础/image-7.png)
 
 # 怎么判断是一个 ipv4 还是 ipv6 的数据包？（二层）
 
