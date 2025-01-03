@@ -8,4 +8,4 @@
 
 # 3. 怎么防止地址冲突？
 
-![alt text](images/面试题---ARP基础/image-2.png)
+![alt text](images/面试题---ARP基础/image-4.png)
