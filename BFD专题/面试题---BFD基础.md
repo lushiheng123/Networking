@@ -12,5 +12,4 @@
 
 # 4. BFD 的工作模式？
 
-![alt text](images/面试题---BFD原理/image-4.png)
-![alt text](images/面试题---BFD原理/image-3.png)
+![alt text](images/面试题---BFD基础/image.png)

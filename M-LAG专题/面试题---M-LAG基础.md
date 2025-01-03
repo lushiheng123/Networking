@@ -1,6 +1,7 @@
 # 1. M-LAG 原理？
 
 ![alt text](images/面试题---M-LAG基础/image.png)
+![alt text](images/面试题---M-LAG基础/image-6.png)
 
 # 2. M-LAG 有哪些设备角色？
 

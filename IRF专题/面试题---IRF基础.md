@@ -1,6 +1,6 @@
 # 1. IRF 原理？优点？
 
-![alt text](image.png)
+![alt text](images/面试题---IRF基础/image.png)
 
 # 2. IRF 堆叠条件？
 
