@@ -13,3 +13,7 @@
 # 4. ISIS 邻居建立失败的原因？
 
 ![alt text](images/面试题---ISIS基础/image-3.png)
+
+# 5. ISIS 的优先级是多少？
+
+![alt text](images/面试题---ISIS基础/image-4.png)
