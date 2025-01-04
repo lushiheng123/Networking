@@ -12,7 +12,7 @@
 
 # 4. IGMPv3 组播组成员加入/离开机制？
 
-![alt text](images/面试题---IGMPv3/image-3.png)
+![alt text](images/面试题---IGMPv3/image-5.png)
 
 # 5. IGMPv3 有哪些查询消息？
 

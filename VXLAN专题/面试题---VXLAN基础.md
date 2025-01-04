@@ -4,9 +4,9 @@
 
 # 2. VXLAN 节点工作模式？
 
-![alt text](images/面试题---VXLAN基础/image-1.png)
+![alt text](images/面试题---VXLAN基础/image-4.png)
 
-# 3. VXLAN 报文的转发方式？VXLAN 怎么减少泛洪量？
+# 3. VXLAN 报文流量的转发方式？VXLAN 怎么减少泛洪量？
 
-![alt text](images/面试题---VXLAN基础/image-2.png)
+![alt text](images/面试题---VXLAN基础/image-5.png)
 ![alt text](images/面试题---VXLAN基础/image-3.png)

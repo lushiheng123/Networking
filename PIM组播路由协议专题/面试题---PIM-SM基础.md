@@ -4,7 +4,7 @@
 ![alt text](images/面试题---PIM-SM基础/image-1.png)
 ![alt text](images/面试题---PIM-SM基础/image-2.png)
 
-# 2.PIM-SM RPT 树的构建过程？(*,G)
+# 2.PIM-SM RPT 树的构建过程？(\*,G)
 
 ![alt text](images/面试题---PIM-SM基础/image-3.png)
 
@@ -15,3 +15,7 @@
 # 4. RPT 树向 SPT 树切换的过程？
 
 ![alt text](images/面试题---PIM-SM基础/image-5.png)
+
+# 5. PIM-SM 有哪些树？
+
+![alt text](images/面试题---PIM-SM基础/image-6.png)
