@@ -4,4 +4,4 @@
 
 # RADIUS 报文格式？
 
-![alt text](images/面试题---RADIUS/image-1.png)
+![alt text](images/面试题---RADIUS/image-3.png)
