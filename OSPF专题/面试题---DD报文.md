@@ -1,6 +1,6 @@
 # 1. OSPF DD 报文的作用？
 
-![alt text](images/面试题---DD报文/image.png)
+![alt text](images/面试题---DD报文/image-4.png)
 
 # 2. DD 报文结构？携带标志位？
 
@@ -9,3 +9,7 @@
 # 3. 序列号的作用？
 
 ![alt text](images/面试题---DD报文/image-2.png)
+
+# 4. OSPF 主从选举？
+
+![alt text](images/面试题---DD报文/image-3.png)
