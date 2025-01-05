@@ -18,6 +18,3 @@
 
 ![alt text](images/面试题---IPV6基础/image-4.png)
 
-# IPV6 地址怎么获得？
-
-![alt text](images/面试题---IPV6基础/image-5.png)

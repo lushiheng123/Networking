@@ -6,7 +6,7 @@
 
 # 2. BGP 邻居建立过程？状态机的转变？
 
-![alt text](images/面试题---BGP基础/image.png)
+![alt text](images/面试题---BGP基础/image-13.png)
 
 # 3. BGP 怎么认证？
 
@@ -29,10 +29,6 @@
 # 7. 什么是 BGP 同步？
 
 ![alt text](images/面试题---BGP基础/image-9.png)
-
-# 8. BGP 哪些路由进入路由表？能宣告哪些路由？
-
-![alt text](images/面试题---BGP基础/image-10.png)
 
 # 9.BGP 邻居失效的原因？
 
