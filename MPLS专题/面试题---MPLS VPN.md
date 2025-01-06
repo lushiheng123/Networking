@@ -15,3 +15,7 @@
 # 4. MPLS VPN 传输数据包的过程？
 
 ![alt text](<images/面试题---MPLS VPN的标签/image-1.png>)
+
+# 5. MPLS VPN 有几种工作模式？
+
+![alt text](<images/面试题---MPLS VPN/image-5.png>)

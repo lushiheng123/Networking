@@ -9,3 +9,7 @@
 # 3. SA lifetimes 类型？
 
 ![alt text](<images/面试题---IPSEC SA/image-2.png>)
+
+# 4. SA 是单向还是双向的？
+
+![alt text](<images/面试题---IPSEC SA/image-3.png>)

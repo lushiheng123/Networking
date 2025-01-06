@@ -19,6 +19,6 @@
 
 ![alt text](images/面试题---IPSEC基础/image-4.png)
 
-# 7. 说一下什么是 IPSEC ？优点？
+# 7. 说一下什么是 IPSEC ？优点？说一下你对 IPSEC VPN 的理解
 
-![alt text](images/面试题---IPSEC基础/image-5.png)
+![alt text](images/面试题---IPSEC基础/image-10.png)
