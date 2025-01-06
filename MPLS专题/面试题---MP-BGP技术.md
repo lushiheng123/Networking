@@ -5,7 +5,7 @@
 
 # 2. EVPN 的作用？
 
-![alt text](images/面试题---MP-BGP技术/image.png)
+![alt text](images/面试题---MP-BGP技术/image-3.png)
 
 # 3. VPNV4 是什么报文携带的？
 

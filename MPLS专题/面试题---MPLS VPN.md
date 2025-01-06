@@ -11,3 +11,7 @@
 # 3. MPLS VPN 有几层标签？
 
 ![alt text](<images/面试题---MPLS VPN/image-1.png>)
+
+# 4. MPLS VPN 传输数据包的过程？
+
+![alt text](<images/面试题---MPLS VPN的标签/image-1.png>)

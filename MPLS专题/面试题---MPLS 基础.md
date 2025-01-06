@@ -16,7 +16,7 @@
 
 # 5. 如何判断 IP 报文即将进入 mpls 域？
 
-![alt text](<images/面试题---MPLS 基础/image-1.png>)
+![alt text](<images/面试题---MPLS 基础/image-3.png>)
 
 # 6. MPLS 上游和下游指的是什么？
 
