@@ -6,7 +6,7 @@
 
 ![alt text](images/面试题---策略路由PBR/image-1.png)
 
-# 策略路由转发规则？
+# 策略路由转发规则？策略路由 deny 了，还能通过路由表转发吗？
 
 ![alt text](images/面试题---策略路由PBR/image-2.png)
 
