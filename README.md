@@ -23,4 +23,9 @@
     - [CBQ 队列调度](/QoS专题/面试题---CBQ.md)
     - [LLQ 队列调度](/QoS专题/面试题---LLQ.md)
 - [IPv4 和 Ipv6](/IPv4和IPv6专题/面试题---IPv4基础.md)
-    - [DHCP](/DHCP专题/面试题---DHCP基础.md)
+  - [DHCP](/DHCP专题/面试题---DHCP基础.md)
+  - [DHCPv6](/DHCP专题/面试题---DHCPv6基础.md)
+- [STP 专题](/STP专题/面试题---STP基础.md)
+  - [RRPP](/RRPP专题/面试题---RRPP基础.md)
+- [VRRP 专题](/VRRP专题/面试题---VRRP基础.md)
+  
