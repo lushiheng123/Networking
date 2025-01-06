@@ -5,3 +5,12 @@
 # 2. GRE over IPSEC?
 
 ![alt text](image-6.png)
+
+# 3. GRE 的封装格式？为什么支持多协议？
+
+![alt text](images/面试题---GRE&IPSEC/image-1.png)
+![alt text](images/面试题---GRE&IPSEC/image-2.png)
+
+# 4. GRE 有哪些应用场景？
+
+![alt text](images/面试题---GRE&IPSEC/image-3.png)

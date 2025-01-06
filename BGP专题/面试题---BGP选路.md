@@ -2,6 +2,6 @@
 
 ![alt text](images/面试题---BGP选路/image-3.png)
 
-# 2. BGP 等价路由？
+# 2. BGP 等价路由,负载分担？
 
-![alt text](images/面试题---BGP选路/image-2.png)
+![alt text](images/面试题---BGP选路/image-4.png)
