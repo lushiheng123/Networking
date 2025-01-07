@@ -12,4 +12,4 @@
 
 # 4. LSA 怎么比较新旧？
 
-![alt text](<images/面试题---OSPF LSA类型/image-2.png>)
+![alt text](<images/面试题---OSPF LSA类型/image-3.png>)

@@ -8,4 +8,4 @@
 
 # 3. Filter-policy 能在出方向吗？
 
-![alt text](images/面试题---OSPF过滤/image-2.png)
+![alt text](images/面试题---OSPF过滤/image-3.png)
