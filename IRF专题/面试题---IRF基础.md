@@ -19,6 +19,3 @@
 
 ![alt text](images/面试题---IRF基础/image-2.png)
 
-# 6. IRF 谁担任主设备？IRF 选举？
-
-![alt text](image-7.png)
