@@ -11,6 +11,7 @@
 ![alt text](images/README/image-15.png)
 ![alt text](images/README/image-16.png)
 
+- [OSI 七层模型](/OSI专题/面试题---OSI基础.md)
 - [IPv4 和 Ipv6](/IPv4和IPv6专题/面试题---IPv4基础.md)
   - [DHCP](/DHCP专题/面试题---DHCP基础.md)
   - [DHCPv6](/DHCP专题/面试题---DHCPv6基础.md)
@@ -69,6 +70,8 @@
 
   - [MAD 分裂检测](/IRF专题/面试题---MAD分裂检测.md)
 
+- 网络规划
+  - [局域网规划](/网络规划专题/面试题---局域网规划.md)
 - [STP](/STP专题/面试题---STP基础.md)
 - [其他]
   - [路由聚合](/其他/面试题---聚合路由.md)
