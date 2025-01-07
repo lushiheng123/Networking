@@ -16,13 +16,17 @@
 
 # 5. STP 选举过程？
 
-![alt text](images/面试题---STP基础/image-2.png)
+![alt text](images/面试题---STP基础/image-7.png)
 
 # 6. STP 端口状态？RSTP 端口状态？
 
-![alt text](images/面试题---STP基础/image-4.png)
-
+![alt text](images/面试题---STP基础/image-9.png)
+![alt text](images/面试题---STP基础/image-10.png)
 # 7. STP 收敛为什么要 30-50s？
 
 ![alt text](images/面试题---STP基础/image-6.png)
 ![alt text](images/面试题---STP基础/image-5.png)
+
+# 8. 根路径开销是什么？
+
+![alt text](images/面试题---STP基础/image-8.png)

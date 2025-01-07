@@ -4,7 +4,7 @@
 
 # 2. TCP 的怎么保证可靠性？
 
-![alt text](images/面试题---TCP基础/image-1.png)
+![alt text](images/面试题---TCP基础/image-7.png)
 
 # 3. TCP 报头内容？
 

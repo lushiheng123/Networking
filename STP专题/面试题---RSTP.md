@@ -1,7 +1,5 @@
-# 1. RSTP 和 STP 端口状态？
-
-![alt text](image-5.png)
-
+# 1. 端口种类？
+![alt text](images/面试题---RSTP/image-3.png)
 # 2. RSTP 的 P/A 机制是什么？
 
 ![alt text](images/面试题---RSTP/image.png)
