@@ -14,3 +14,7 @@
 # 4. GRE 有哪些应用场景？
 
 ![alt text](images/面试题---GRE&IPSEC/image-3.png)
+
+# 5. GRE 封装和 IPSEC 封装的区别？
+
+![alt text](images/面试题---GRE&IPSEC/image-4.png)
