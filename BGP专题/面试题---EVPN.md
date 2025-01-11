@@ -4,11 +4,11 @@
 
 # 2. EVPN 作用？
 
-![alt text](images/面试题---EVPN基础/image-1.png)
+![alt text](images/面试题---EVPN/image.png)
 
 # 3. ARP 代理和 ARP 代答是什么？
 
-![alt text](images/面试题---EVPN基础/image-2.png)
+![alt text](images/面试题---EVPN/image-1.png)
 
 # 4. ARP 抑制表是什么?
 
