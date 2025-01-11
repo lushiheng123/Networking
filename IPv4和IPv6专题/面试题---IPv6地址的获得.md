@@ -9,3 +9,4 @@
 # IPV6 接口标识符的获得方式？
 
 ![alt text](images/面试题---IPv6地址的获得/image-1.png)
+
