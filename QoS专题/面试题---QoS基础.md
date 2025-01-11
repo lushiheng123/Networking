@@ -13,3 +13,7 @@
 # 4. 实战中怎么做 QoS?
 
 ![alt text](images/面试题---QoS基础/image-2.png)
+
+# 5. QoS 服务质量有哪些衡量标准？
+
+![alt text](images/面试题---QoS基础/image-3.png)

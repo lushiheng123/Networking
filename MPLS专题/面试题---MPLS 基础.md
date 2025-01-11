@@ -21,3 +21,7 @@
 # 6. MPLS 上游和下游指的是什么？
 
 ![alt text](<images/面试题---MPLS 基础/image-2.png>)
+
+# 7. 为什么说 MPLS 比 IP 高效？
+
+![alt text](<images/面试题---MPLS 基础/image-4.png>)

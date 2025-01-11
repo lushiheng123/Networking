@@ -8,7 +8,8 @@
 
 # 4. IPSEC 工作模式？传输模式和隧道模式的区别？
 
-![alt text](images/面试题---IPSEC基础/image-2.png)
+![alt text](images/面试题---IPSEC基础/image-11.png)
+![alt text](images/面试题---IPSEC基础/image-12.png)
 
 # 5. IPSEC 安全协议有哪些？ AH 和 ESP 有什么区别？
 
@@ -22,3 +23,5 @@
 # 7. 说一下什么是 IPSEC ？优点？说一下你对 IPSEC VPN 的理解
 
 ![alt text](images/面试题---IPSEC基础/image-10.png)
+
+# 8. IPSEC

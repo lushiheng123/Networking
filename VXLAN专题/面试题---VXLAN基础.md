@@ -17,3 +17,7 @@
 ![alt text](images/面试题---VXLAN基础/image-10.png)
 ![alt text](images/面试题---VXLAN基础/image-11.png)
 ![alt text](images/面试题---VXLAN基础/image-12.png)
+
+# 5. 为什么用 VXLAN？（差不多描述就行）
+
+![alt text](images/面试题---VXLAN基础/image-15.png)
