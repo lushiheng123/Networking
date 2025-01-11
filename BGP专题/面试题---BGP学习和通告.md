@@ -6,3 +6,7 @@
 # 7. 什么是 BGP 同步？
 
 ![alt text](images/面试题---BGP基础/image-9.png)
+
+# IBGP 通告和 EBGP 通告的区别？
+
+![alt text](images/面试题---BGP学习和通告/image-1.png)

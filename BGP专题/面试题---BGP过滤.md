@@ -1,8 +1,10 @@
 # 1. BGP 的过滤方法？
 
-![alt text](images/面试题---BGP过滤/image.png)
+![alt text](images/面试题---BGP过滤/image-2.png)
 
 # 2. BGP 的正则怎么写？
+
+![alt text](images/面试题---BGP过滤/image-1.png)
 
 - `^` 标识以...开头。例如：`^65001` 表示以 AS 65001 开头。
 - `_65002_` 标识包含 65002。

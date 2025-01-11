@@ -1,6 +1,6 @@
 # 1. IGMP v1,v2,v3 的区别？
 
-![alt text](images/面试题---IGMPv3/image.png)
+![alt text](images/面试题---IGMPv3/image-6.png)
 
 # 2. IGMPv1 组播组成员加入/离开机制？
 
