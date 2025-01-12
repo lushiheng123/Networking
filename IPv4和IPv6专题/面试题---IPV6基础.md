@@ -12,7 +12,7 @@
 
 # ipv6 和 ipv4 标头的区别？
 
-![alt text](images/面试题---IPV6基础/image-1.png)
+![alt text](images/面试题---IPV6基础/image-10.png)
 
 # IPV6 报文结构？
 
