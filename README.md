@@ -126,6 +126,8 @@
   - [聚合 VLAN](/VLAN专题/面试题---VLAN聚合.md)
   - [Q-in-Q](/Q-in-Q专题/面试题---QINQ基础.md)
 - ## [VXLAN](/VXLAN专题/面试题---VXLAN基础.md)
+  - [VTEP](/VXLAN专题/面试题---VTEP.md)
+  - [Underlay 和 Overlay](/VXLAN专题/面试题---overlay和underlay.md)
   - [VXLAN 组网](/VXLAN专题/面试题---VXLAN组网.md)
   - [DCI 站点通信](/VXLAN专题/面试题---VXLAN%20DCI.md)
 - ## [MPLS](/MPLS专题/面试题---MPLS%20基础.md)
