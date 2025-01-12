@@ -12,25 +12,32 @@
 ![alt text](images/README/image-16.png)
 
 - ## [OSI 七层模型](/OSI专题/面试题---OSI基础.md)
+- ## [MAC 地址](/MAC专题/面试题---MAC基础.md)
+  - [mac 地址漂移](/MAC专题/面试题---MAC地址漂移.md)
 - ## [单播组播广播](/BUM单播组播广播专题/面试题---组播基础.md)
 - ## [IGMP](/IGMP专题/面试题---IGMP基础.md)
   - [IGMP 侦听](/IGMP专题/面试题---IGMP%20Snooping.md)
 - ## [IPv4 和 Ipv6](/IPv4和IPv6专题/面试题---IPv4基础.md)
+
   - [IPv6](/IPv4和IPv6专题/面试题---IPV6基础.md)
+
+    - [ICMPv6](/ICMP专题/面试题---ICMPV6.md)
     - [NDP 协议](/IPv4和IPv6专题/面试题---NDP协议.md)
     - [ipv4 和 ipv6 互通技术](/IPv4和IPv6专题/面试题---IPV4和IPV6互通.md)
+
   - [DHCP](/DHCP专题/面试题---DHCP基础.md)
     - [DHCP 攻击和防范](/DHCP专题/面试题---DHCP攻击防范.md)
   - [DHCPv6](/DHCP专题/面试题---DHCPv6基础.md)
     - [SLAAC 无状态](/IPv4和IPv6专题/面试题---无状态SLAAC.md)
   - [IPX(不在考纲)](/IPv4和IPv6专题/面试题---IPX.md)
+
 - ## [ARP](/ARP专题/面试题---ARP基础.md)
+
   - [广播风暴](/ARP专题/面试题---广播风暴.md)
   - [ARP 代理](/ARP专题/面试题---ARP代理.md)
   - [免费 ARP](/ARP专题/面试题---免费ARP.md)
   - [ARP 攻击](/ARP专题/面试题---ARP攻击.md)
-- ## [ICMP](/ICMP专题/面试题---ICMP基础.md)
-  - [ICMPv6](/ICMP专题/面试题---ICMPV6.md)
+
 - ## [TCP UDP](/TCP和UDP专题/面试题---TCP基础.md)
 - ## [静态路由](/静态路由专题/面试题---静态路由基础.md)
   - [黑洞路由](/静态路由专题/面试题---黑洞路由.md)
@@ -53,7 +60,11 @@
 - ## [VRRP 专题](/VRRP专题/面试题---VRRP基础.md)
 
 - ## [NAT 专题](/NAT专题/面试题---NAT基础.md)
-  -[NAPT](/NAT专题/面试题---NAPT.md) -[EASY IP](/NAT专题/)
+  - [NAPT](/NAT专题/面试题---NAPT.md)
+  - [EASY IP](/NAT专题/)
+  - [NAT ALG](/NAT专题/面试题---NAT%20ALG技术.md)
+  - [NAT Server](/NAT专题/面试题---NAT%20Server.md)
+  - [NAT-PT 协议转换](/NAT专题/面试题---NAT-PT技术.md)
 - ## 动态路由协议
   - ### [BGP ](/BGP专题/面试题---BGP基础.md)
     - [BGP 选路](/BGP专题/面试题---BGP选路.md)
@@ -81,6 +92,7 @@
   - [ip 前缀列表](/路由策略专题/面试题---前缀列表.md)
   - [路由引入](/路由策略专题/面试题---路由引入.md)
 - ## [VLAN](/VLAN专题/面试题---VLAN基础.md)
+  - [Access/Trunk/Hybrid 区别](/Access和Trunk专题/面试题---Hybrid原理.md)
   - [VLAN 子接口](/VLAN专题/面试题---VLAN子接口.md)
   - [PVLAN 私有 VLAN](/VLAN专题/面试题---私有VLAN.md)
   - [聚合 VLAN](/VLAN专题/面试题---VLAN聚合.md)
@@ -88,6 +100,9 @@
 - ## [VXLAN](/VXLAN专题/面试题---VXLAN基础.md)
   - [VXLAN 组网](/VXLAN专题/面试题---VXLAN组网.md)
   - [DCI 站点通信](/VXLAN专题/面试题---VXLAN%20DCI.md)
+- ## [MPLS](/MPLS专题/面试题---MPLS%20基础.md)
+  - [RD,RT](/MPLS专题/面试题---MPLS%20VPN.md)
+  - [VRF](/MPLS专题/面试题---MPLS%20VPN%20VRF.MD)
 - ## [M-LAG](/M-LAG专题/面试题---M-LAG基础.md)
   - [keepalive 链路](/M-LAG专题/面试题---keepalive链路.md)
   - [和 IRF 区别](/M-LAG专题/面试题---M-LAG和IRF区别.md)
@@ -118,3 +133,4 @@
   - [可靠性](/其他/面试题---可靠性.md)
   - [环路](/其他/面试题---环路.md)
   - [HTTP 和 HTTPS(不在考纲)](/HTTP专题/面试题---HTTP基础.md)
+  - [NQA 技术(不在考纲)](/NQA专题/面试题---NQA基础.md)

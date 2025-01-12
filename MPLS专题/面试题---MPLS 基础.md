@@ -2,7 +2,7 @@
 
 ![1-1 MPLS原理](image.png)
 
-# 2.MPLS 标签的取值范围是多少？
+# 2.MPLS 标签的取值范围是多少？(重点)
 
 ![alt text](image-5.png)
 
