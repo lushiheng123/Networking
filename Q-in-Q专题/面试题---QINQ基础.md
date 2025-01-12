@@ -1,6 +1,8 @@
 # 1. 什么是内层标签？什么是外层标签？
 
 ![alt text](images/面试题---QINQ基础/image-3.png)
+![alt text](images/面试题---QINQ基础/image-4.png)
+
 # 2. 基本 QINQ 和灵活 QINQ 的区别？
 
 ![](images/面试题---QINQ基础/image.png)

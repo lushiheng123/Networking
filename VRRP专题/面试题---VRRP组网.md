@@ -2,6 +2,6 @@
 
 ![alt text](images/面试题---VRRP组网/image.png)
 
-# 2. RBM 是什么技术？
+# 2. RBM 是什么技术？（不考）
 
 ![alt text](images/面试题---VRRP组网/image-1.png)
