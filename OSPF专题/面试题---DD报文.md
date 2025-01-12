@@ -12,4 +12,4 @@
 
 # 4. OSPF 主从选举？
 
-![alt text](images/面试题---DD报文/image-3.png)
+![alt text](images/面试题---DD报文/image-5.png)

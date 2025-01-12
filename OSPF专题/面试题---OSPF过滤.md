@@ -1,4 +1,4 @@
-# 1. OSPF 怎么过滤？
+# 1. OSPF 怎么过滤？(重点)
 
 ![alt text](images/面试题---OSPF过滤/image-1.png)
 

@@ -22,4 +22,4 @@
 
 # 6. OSPF 静默接口的作用？
 
-![alt text](images/面试题---OSPF基础/image-5.png)
+![alt text](images/面试题---OSPF基础/image-6.png)
