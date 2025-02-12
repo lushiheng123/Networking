@@ -8,6 +8,6 @@
 
 # 5. git commit -m "exampleeee"设置任务
 
-# 6. git remote add origin git@github.com:lushiheng123/UI.git 设置远程连接
+# 6. git remote add origin git@github.com:lushiheng123/Networking.git 设置远程连接
 
 # 7. git push -u origin example 选择用什么分支上传
