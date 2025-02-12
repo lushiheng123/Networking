@@ -1,4 +1,4 @@
-# 1. OSPF LSA 有哪些类型？
+# 1. OSPF LSA 有哪些类型？(重点)
 
 ![alt text](image-8.png)
 
