@@ -30,3 +30,27 @@ git pull origin Server
 # 3. 服务器的架构有哪些？
 
 ![alt text](README_Images/README/image-2.png)
+
+# 4.说一下什么是内存？CPU 内存和内存条的区别是什么？
+
+![alt text](README_Images/README/image-3.png)
+
+# 5. 说一下有哪些存储？
+
+![alt text](README_Images/README/image-4.png)
+
+# 6. 说一下 RAID 卡？
+
+![alt text](README_Images/README/image-5.png)
+
+# 7. 你知道哪些服务器系统？
+
+![alt text](README_Images/README/image-6.png)
+
+# 8. 怎么做 BIOS？
+
+![alt text](README_Images/README/image-7.png)
+
+# 9. 服务器怎么做带外管理？
+
+![alt text](README_Images/README/image-8.png)
