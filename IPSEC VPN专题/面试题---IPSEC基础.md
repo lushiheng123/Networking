@@ -24,4 +24,3 @@
 
 ![alt text](images/面试题---IPSEC基础/image-10.png)
 
-# 8. IPSEC
