@@ -2,3 +2,5 @@
 
 ![alt text](README_Images/DNS欺骗/image.png)
 
+![alt text](README_Images/DNS欺骗/image-1.png)
+
