@@ -12,6 +12,3 @@
 ![alt text](README_Images/README/image-6.png)
 
 ---
-
-![alt text](README_Images/README/image-7.png)
-bios 怎么做（补充）
