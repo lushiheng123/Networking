@@ -23,7 +23,6 @@ git push -u origin Security
 - ## [Path Traversal](./contents/路径遍历/基础.md)
 - ## [MITM](./contents/中间人攻击/基础.md)
 - ## [Dos/DDos](./contents/Dos/基础.md)
-- ## [26 课件 lab,思科设备的登录方式]
 - ## [课件 33,思科 CDP](./contents/思科发现协议/基础.md)
 - ## [DNS 域名系统](./contents/DNS/基础.md)
 
