@@ -25,6 +25,9 @@ git push -u origin Security
 - ## [Dos/DDos](./contents/Dos/基础.md)
 - ## [课件 33,思科 CDP](./contents/思科发现协议/基础.md)
 - ## [DNS 域名系统](./contents/DNS/基础.md)
+- ## [NTP](./contents/NTP时钟同步/基础.md)
+- ## [密码学]
+- ## [DMVPN]()
 
 # 1. 考试要求
 
