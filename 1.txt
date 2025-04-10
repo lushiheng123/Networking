@@ -1,0 +1,6 @@
+通过IPMI web console登录 hypervisor 控制台；
+如果主机没有响应卡死，查看物理机状态；
+如果主机运行正常，通过主机与 CVM 的内部网络连接 CVM；
+	# ssh nutanix@192.168.5.254
+登录后检查CVM内部服务状态等等；
+	$ genesis status
