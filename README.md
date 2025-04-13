@@ -31,6 +31,7 @@ git push -u origin Security
 - ## [Cisco ASA](./contents/ASA/基础.md)
   - ### [安全区域](./contents/ASA/安全区域.md)
 - ## [Flex VPN](./contents/VPN/FlexVPN.md)
+- ## [路由协议认证安全](./contents/路由协议安全/OSPF认证.md)
 
 # 1. 考试要求
 
