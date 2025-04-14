@@ -1,4 +1,4 @@
-<h1 align="center">CCIE Security考试，实验CCIE </h1>
+<h1 align="center">CCIE Security考试，实验CCIE Security 6.1</h1>
 
 ```sh
 git init
@@ -33,12 +33,25 @@ git push -u origin Security
 - ## [Flex VPN](./contents/VPN/FlexVPN.md)
 - ## [路由协议认证安全](./contents/路由协议安全/OSPF认证.md)
 
-# 1. 考试要求
+# 1. 考试要求:<a href="https://learningnetwork.cisco.com/s/ccie-security">官网</a>
 
-![alt text](README_Images/README/image.png)
-![alt text](README_Images/README/image-1.png)
-![alt text](README_Images/README/image-2.png)
-![alt text](README_Images/README/image-3.png)
+# 2. SCOR 是什么？
+
+## 350-701 SCOR: Implementing and Operating Cisco Security Core Technologies 实施和操作思科安全核心技术
+
+# 3. 笔试考纲：<a href="https://learningnetwork.cisco.com/s/scor-exam-topics">网页</a>
+
+## 120 分钟
+
+# 4. 上机考纲：<a href=">https://learningnetwork.cisco.com/s/scor-exam-topics">网页</a>
+
+## 8 个小时
+
+# 5. 实验所需要的设备清单:[设备](./设备清单/CCIE_Security_v6.1_HW_and_SW_REVISED.pdf)
+
+# 6. 官网登录注册申请考试的过程？
+
+## 这个网站去登录:https://cp.certmetrics.com/cisco/en/home/dashboard
 
 # 思科设备登录(login local 切换回来)
 
