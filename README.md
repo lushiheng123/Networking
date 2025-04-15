@@ -32,6 +32,8 @@ git push -u origin Security
   - ### [安全区域](./contents/ASA/安全区域.md)
 - ## [Flex VPN](./contents/VPN/FlexVPN.md)
 - ## [路由协议认证安全](./contents/路由协议安全/OSPF认证.md)
+- ## [ikev2](./contents/IKEv2/基础.md)
+- ## [ssl](./contents/SSL/基础.md)
 
 # 1. 考试要求:<a href="https://learningnetwork.cisco.com/s/ccie-security">官网</a>
 

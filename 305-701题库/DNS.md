@@ -9,3 +9,7 @@
 ![alt text](README_Images/DNS/image-6.png)
 ![alt text](README_Images/DNS/image-7.png)
 ![alt text](README_Images/DNS/image-8.png)
+
+![alt text](README_Images/DNS/image-9.png)
+![alt text](README_Images/DNS/image-10.png)
+![alt text](README_Images/DNS/image-11.png)
