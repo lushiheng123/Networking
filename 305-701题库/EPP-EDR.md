@@ -15,3 +15,7 @@
 ![alt text](README_Images/EPP-EDR/image-7.png)
 ![alt text](README_Images/EPP-EDR/image-8.png)
 ![alt text](README_Images/EPP-EDR/image-9.png)
+
+![alt text](README_Images/EPP-EDR/image-10.png)
+![alt text](README_Images/EPP-EDR/image-11.png)
+![alt text](README_Images/EPP-EDR/image-12.png)

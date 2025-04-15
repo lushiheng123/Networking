@@ -24,3 +24,6 @@
 ![alt text](README_Images/WSA/image-16.png)
 ![alt text](README_Images/WSA/image-17.png)
 ![alt text](README_Images/WSA/image-18.png)
+
+![alt text](README_Images/WSA/image-19.png)
+![alt text](README_Images/WSA/image-20.png)
