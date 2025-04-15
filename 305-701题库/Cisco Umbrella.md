@@ -30,3 +30,16 @@
 ![alt text](<README_Images/Cisco Umbrella/image-21.png>)
 选 D
 ![alt text](<README_Images/Cisco Umbrella/image-22.png>)
+
+![alt text](<README_Images/Cisco Umbrella/image-23.png>)
+![alt text](<README_Images/Cisco Umbrella/image-24.png>)
+
+![alt text](<README_Images/Cisco Umbrella/image-25.png>)
+![alt text](<README_Images/Cisco Umbrella/image-26.png>)
+![alt text](<README_Images/Cisco Umbrella/image-27.png>)
+
+![alt text](<README_Images/Cisco Umbrella/image-28.png>)
+
+![alt text](<README_Images/Cisco Umbrella/image-29.png>)
+![alt text](<README_Images/Cisco Umbrella/image-30.png>)
+![alt text](<README_Images/Cisco Umbrella/image-31.png>)
