@@ -7,3 +7,5 @@
 ![alt text](README_Images/DNA-Center/image-4.png)
 ![alt text](README_Images/DNA-Center/image-5.png)
 ![alt text](README_Images/DNA-Center/image-6.png)
+
+![234](README_Images/DNA-Center/image-7.png)

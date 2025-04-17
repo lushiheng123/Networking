@@ -8,3 +8,8 @@
 ![209](<README_Images/Cisco Stealthwatch Cloud/image-2.png>)
 ![alt text](<README_Images/Cisco Stealthwatch Cloud/image-3.png>)
 ![alt text](<README_Images/Cisco Stealthwatch Cloud/image-4.png>)
+
+![260](<README_Images/Cisco Stealthwatch Cloud/image-5.png>)
+![alt text](<README_Images/Cisco Stealthwatch Cloud/image-6.png>)
+![alt text](<README_Images/Cisco Stealthwatch Cloud/image-7.png>)
+![alt text](<README_Images/Cisco Stealthwatch Cloud/image-8.png>)
