@@ -34,6 +34,8 @@ git push -u origin Security
 - ## [路由协议认证安全](./contents/路由协议安全/OSPF认证.md)
 - ## [ikev2](./contents/IKEv2/基础.md)
 - ## [ssl](./contents/SSL/基础.md)
+- ## [MFA 多因素认证](./contents/多因素认证/基础.md)
+- ## [Grafana](./contents/Grafana/基础.md)
 
 # 1. 考试要求:<a href="https://learningnetwork.cisco.com/s/ccie-security">官网</a>
 

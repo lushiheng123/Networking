@@ -31,3 +31,6 @@
 ![alt text](<README_Images/Cisco AMP/image-21.png>)
 
 ![227](<README_Images/Cisco AMP/image-26.png>)
+
+![306](<README_Images/Cisco AMP/image-27.png>)
+![alt text](<README_Images/Cisco AMP/image-28.png>)
