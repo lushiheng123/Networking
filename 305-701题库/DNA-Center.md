@@ -9,3 +9,8 @@
 ![alt text](README_Images/DNA-Center/image-6.png)
 
 ![234](README_Images/DNA-Center/image-7.png)
+
+![371](README_Images/DNA-Center/image-8.png)
+选 A
+![alt text](README_Images/DNA-Center/image-9.png)
+![alt text](README_Images/DNA-Center/image-10.png)

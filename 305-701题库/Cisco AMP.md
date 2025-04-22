@@ -34,3 +34,23 @@
 
 ![306](<README_Images/Cisco AMP/image-27.png>)
 ![alt text](<README_Images/Cisco AMP/image-28.png>)
+
+![344](<README_Images/Cisco AMP/image-29.png>)
+![alt text](<README_Images/Cisco AMP/image-30.png>)
+![alt text](<README_Images/Cisco AMP/image-31.png>)
+
+![349](<README_Images/Cisco AMP/image-32.png>)
+![alt text](<README_Images/Cisco AMP/image-33.png>)
+![alt text](<README_Images/Cisco AMP/image-34.png>)
+
+![350](<README_Images/Cisco AMP/image-35.png>)
+![alt text](<README_Images/Cisco AMP/image-36.png>)
+![alt text](<README_Images/Cisco AMP/image-37.png>)
+
+![363](<README_Images/Cisco AMP/image-38.png>)
+![alt text](<README_Images/Cisco AMP/image-39.png>)
+![alt text](<README_Images/Cisco AMP/image-40.png>)
+
+![364](<README_Images/Cisco AMP/image-41.png>)
+![alt text](<README_Images/Cisco AMP/image-42.png>)
+![alt text](<README_Images/Cisco AMP/image-43.png>)
