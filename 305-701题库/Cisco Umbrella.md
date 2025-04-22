@@ -80,3 +80,9 @@
 ![298](<README_Images/Cisco Umbrella/image-55.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-56.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-57.png>)
+
+![395](<README_Images/Cisco Umbrella/image-58.png>)
+![alt text](<README_Images/Cisco Umbrella/image-59.png>)
+
+![399](<README_Images/Cisco Umbrella/image-60.png>)
+![alt text](<README_Images/Cisco Umbrella/image-61.png>)

@@ -4,3 +4,6 @@
 ![alt text](README_Images/Talos/image-3.png)
 
 ![307](README_Images/Talos/image-4.png)
+
+![376](README_Images/Talos/image-5.png)
+![alt text](README_Images/Talos/image-6.png)
