@@ -59,3 +59,7 @@
 
 ![398](<README_Images/Cisco AMP/image-45.png>)
 ![alt text](<README_Images/Cisco AMP/image-46.png>)
+
+![464](<README_Images/Cisco AMP/image-47.png>)
+![alt text](<README_Images/Cisco AMP/image-48.png>)
+![alt text](<README_Images/Cisco AMP/image-49.png>)

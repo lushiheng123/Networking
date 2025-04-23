@@ -10,3 +10,7 @@
 ![427](README_Images/NGIPS/image-7.png)
 ![alt text](README_Images/NGIPS/image-8.png)
 ![alt text](README_Images/NGIPS/image-9.png)
+
+![467](README_Images/NGIPS/image-10.png)
+![alt text](README_Images/NGIPS/image-11.png)
+![alt text](README_Images/NGIPS/image-12.png)
