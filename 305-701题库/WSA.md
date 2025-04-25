@@ -28,9 +28,7 @@
 ![alt text](README_Images/WSA/image-19.png)
 ![alt text](README_Images/WSA/image-20.png)
 
-![alt text](README_Images/WSA/image-21.png)
-![alt text](README_Images/WSA/image-22.png)
-![alt text](README_Images/WSA/image-23.png)
+![164](README_Images/WSA/image-21.png)
 
 ![alt text](README_Images/WSA/image-24.png)
 ![alt text](README_Images/WSA/image-25.png)
