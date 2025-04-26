@@ -14,3 +14,8 @@
 选 A
 ![alt text](README_Images/DNA-Center/image-9.png)
 ![alt text](README_Images/DNA-Center/image-10.png)
+
+![543](README_Images/DNA-Center/image-11.png)
+![alt text](README_Images/DNA-Center/image-12.png)
+![alt text](README_Images/DNA-Center/image-13.png)
+![alt text](README_Images/DNA-Center/image-14.png)

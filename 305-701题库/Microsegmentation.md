@@ -15,3 +15,7 @@
 答案选 B
 ![alt text](README_Images/其他/image-33.png)
 ![alt text](README_Images/其他/image-34.png)
+
+![524](README_Images/Microsegmentation/image-10.png)
+![alt text](README_Images/Microsegmentation/image-11.png)
+![alt text](README_Images/Microsegmentation/image-12.png)
