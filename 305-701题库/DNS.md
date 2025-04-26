@@ -24,3 +24,7 @@
 ![498](README_Images/DNS/image-17.png)
 ![alt text](README_Images/DNS/image-18.png)
 ![alt text](README_Images/DNS/image-19.png)
+
+![577](README_Images/DNS/image-20.png)
+![alt text](README_Images/DNS/image-21.png)
+![alt text](README_Images/DNS/image-22.png)
