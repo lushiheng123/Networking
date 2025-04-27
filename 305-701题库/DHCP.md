@@ -15,3 +15,8 @@
 ![alt text](README_Images/DHCP/image-10.png)
 ![alt text](README_Images/DHCP/image-11.png)
 ![alt text](README_Images/DHCP/image-12.png)
+
+![651](README_Images/DHCP/image-13.png)
+![alt text](README_Images/DHCP/image-14.png)
+![alt text](README_Images/DHCP/image-15.png)
+![alt text](README_Images/DHCP/image-16.png)

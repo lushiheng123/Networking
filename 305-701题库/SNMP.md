@@ -15,3 +15,7 @@
 
 ![477](README_Images/SNMP/image-10.png)
 ![alt text](README_Images/SNMP/image-11.png)
+
+![631](README_Images/SNMP/image-12.png)
+![alt text](README_Images/SNMP/image-13.png)
+![alt text](README_Images/SNMP/image-14.png)

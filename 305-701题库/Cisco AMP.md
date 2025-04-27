@@ -89,3 +89,11 @@
 ![622](<README_Images/Cisco AMP/image-65.png>)
 ![alt text](<README_Images/Cisco AMP/image-66.png>)
 ![alt text](<README_Images/Cisco AMP/image-67.png>)
+
+![634](<README_Images/Cisco AMP/image-68.png>)
+![alt text](<README_Images/Cisco AMP/image-69.png>)
+
+![654](<README_Images/Cisco AMP/image-70.png>)
+![alt text](<README_Images/Cisco AMP/image-71.png>)
+![alt text](<README_Images/Cisco AMP/image-72.png>)
+![alt text](<README_Images/Cisco AMP/image-73.png>)
