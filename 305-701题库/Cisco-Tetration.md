@@ -34,3 +34,13 @@
 ![alt text](README_Images/Cisco-Tetration/image-21.png)
 ![alt text](README_Images/Cisco-Tetration/image-22.png)
 ![alt text](README_Images/Cisco-Tetration/image-23.png)
+
+![689](README_Images/Cisco-Tetration/image-24.png)
+![alt text](README_Images/Cisco-Tetration/image-25.png)
+![alt text](README_Images/Cisco-Tetration/image-26.png)
+![alt text](README_Images/Cisco-Tetration/image-27.png)
+
+![697](README_Images/Cisco-Tetration/image-28.png)
+![alt text](README_Images/Cisco-Tetration/image-29.png)
+![alt text](README_Images/Cisco-Tetration/image-30.png)
+![alt text](README_Images/Cisco-Tetration/image-31.png)
