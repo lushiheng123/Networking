@@ -32,3 +32,7 @@
 ![623](README_Images/NetFlow/image-20.png)
 ![alt text](README_Images/NetFlow/image-21.png)
 ![alt text](README_Images/NetFlow/image-22.png)
+
+![755](README_Images/NetFlow/image-23.png)
+![alt text](README_Images/NetFlow/image-24.png)
+![alt text](README_Images/NetFlow/image-25.png)

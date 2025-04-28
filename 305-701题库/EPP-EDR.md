@@ -26,3 +26,7 @@
 ![707](README_Images/EPP-EDR/image-18.png)
 ![alt text](README_Images/EPP-EDR/image-19.png)
 ![alt text](README_Images/EPP-EDR/image-20.png)
+
+![723](README_Images/EPP-EDR/image-21.png)
+![alt text](README_Images/EPP-EDR/image-22.png)
+![alt text](README_Images/EPP-EDR/image-23.png)
