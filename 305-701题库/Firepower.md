@@ -15,3 +15,6 @@
 ![647](README_Images/Firepower/image-10.png)
 ![alt text](README_Images/Firepower/image-11.png)
 ![alt text](README_Images/Firepower/image-12.png)
+
+![806](README_Images/Firepower/image-13.png)
+![alt text](README_Images/Firepower/image-14.png)

@@ -11,3 +11,7 @@
 ![776](README_Images/Cloudlock/image-7.png)
 ![alt text](README_Images/Cloudlock/image-8.png)
 ![alt text](README_Images/Cloudlock/image-9.png)
+
+![815](README_Images/Cloudlock/image-10.png)
+![alt text](README_Images/Cloudlock/image-11.png)
+![alt text](README_Images/Cloudlock/image-12.png)
