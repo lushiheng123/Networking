@@ -151,3 +151,7 @@
 ![754](<README_Images/Cisco Umbrella/image-111.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-112.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-113.png>)
+
+![770](<README_Images/Cisco Umbrella/image-114.png>)
+![alt text](<README_Images/Cisco Umbrella/image-115.png>)
+![alt text](<README_Images/Cisco Umbrella/image-116.png>)

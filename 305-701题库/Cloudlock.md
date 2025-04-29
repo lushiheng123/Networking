@@ -7,3 +7,7 @@
 
 ![489](README_Images/Cloudlock/image-5.png)
 ![alt text](README_Images/Cloudlock/image-6.png)
+
+![776](README_Images/Cloudlock/image-7.png)
+![alt text](README_Images/Cloudlock/image-8.png)
+![alt text](README_Images/Cloudlock/image-9.png)
