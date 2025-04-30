@@ -47,7 +47,7 @@ git push -u origin Security
 
 ## 120 分钟
 
-# 4. 上机考纲：<a href=">https://learningnetwork.cisco.com/s/scor-exam-topics">网页</a>
+# 4. 上机考纲：<a href="https://learningnetwork.cisco.com/s/scor-exam-topics">网页</a>
 
 ## 8 个小时
 
