@@ -3,3 +3,5 @@
 # 1. ospf 的验证方式？
 
 ![alt text](images/面试题---OSPF验证/image.png)
+
+# 2. 验证错误了，会怎么样？
