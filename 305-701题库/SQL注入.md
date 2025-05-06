@@ -14,3 +14,7 @@
 ![684](README_Images/SQL注入/image-9.png)
 ![alt text](README_Images/SQL注入/image-10.png)
 ![alt text](README_Images/SQL注入/image-11.png)
+
+![918](README_Images/SQL注入/image-12.png)
+![alt text](README_Images/SQL注入/image-13.png)
+![alt text](README_Images/SQL注入/image-14.png)
