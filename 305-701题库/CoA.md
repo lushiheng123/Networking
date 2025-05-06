@@ -26,3 +26,7 @@
 
 ![874](README_Images/CoA/image-19.png)
 ![alt text](README_Images/CoA/image-20.png)
+
+![940](README_Images/CoA/image-21.png)
+![alt text](README_Images/CoA/image-22.png)
+![alt text](README_Images/CoA/image-23.png)

@@ -12,3 +12,7 @@
 ![922](README_Images/NTP/image-6.png)
 ![alt text](README_Images/NTP/image-7.png)
 ![alt text](README_Images/NTP/image-8.png)
+
+![970](README_Images/NTP/image-9.png)
+![alt text](README_Images/NTP/image-10.png)
+![alt text](README_Images/NTP/image-11.png)
