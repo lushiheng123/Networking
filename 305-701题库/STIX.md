@@ -15,3 +15,6 @@
 ![749](README_Images/STIX/image-11.png)
 ![alt text](README_Images/STIX/image-12.png)
 ![alt text](README_Images/STIX/image-13.png)
+
+![877](README_Images/STIX/image-14.png)
+![alt text](README_Images/STIX/image-15.png)

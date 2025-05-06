@@ -101,3 +101,6 @@
 ![804](<README_Images/Cisco AMP/image-74.png>)
 ![alt text](<README_Images/Cisco AMP/image-75.png>)
 ![alt text](<README_Images/Cisco AMP/image-76.png>)
+
+![894](<README_Images/Cisco AMP/image-77.png>)
+![alt text](<README_Images/Cisco AMP/image-78.png>)
