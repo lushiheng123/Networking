@@ -51,3 +51,6 @@
 
 ![alt text](<README_Images/Cisco Stealthwatch Cloud/image-31.png>)
 ![alt text](<README_Images/Cisco Stealthwatch Cloud/image-32.png>)
+
+![985](<README_Images/Cisco Stealthwatch Cloud/image-33.png>)
+![alt text](<README_Images/Cisco Stealthwatch Cloud/image-34.png>)

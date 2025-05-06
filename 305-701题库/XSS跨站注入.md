@@ -16,3 +16,6 @@
 ![858](README_Images/XSS跨站注入/image-11.png)
 
 # 选 BD
+
+![982](README_Images/XSS跨站注入/image-12.png)
+![alt text](README_Images/XSS跨站注入/image-13.png)
