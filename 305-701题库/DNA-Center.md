@@ -23,3 +23,12 @@
 ![866](README_Images/DNA-Center/image-15.png)
 ![alt text](README_Images/DNA-Center/image-16.png)
 ![alt text](README_Images/DNA-Center/image-17.png)
+
+![905](README_Images/DNA-Center/image-18.png)
+![alt text](README_Images/DNA-Center/image-19.png)
+![alt text](README_Images/DNA-Center/image-20.png)
+![alt text](README_Images/DNA-Center/image-21.png)
+
+![910](README_Images/DNA-Center/image-22.png)
+![alt text](README_Images/DNA-Center/image-23.png)
+![alt text](README_Images/DNA-Center/image-24.png)

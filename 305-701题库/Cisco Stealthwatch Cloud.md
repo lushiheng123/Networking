@@ -44,3 +44,10 @@
 ![alt text](<README_Images/Cisco Stealthwatch Cloud/image-28.png>)
 
 ![830](<README_Images/Cisco Stealthwatch Cloud/image-29.png>)
+
+![899](<README_Images/Cisco Stealthwatch Cloud/image-30.png>)
+
+# 选 DE
+
+![alt text](<README_Images/Cisco Stealthwatch Cloud/image-31.png>)
+![alt text](<README_Images/Cisco Stealthwatch Cloud/image-32.png>)
