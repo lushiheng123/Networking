@@ -13,7 +13,9 @@
 ---
 
 ![alt text](README_Images/AAA/image-4.png)
-答案是 A
+
+# 答案是 A
+
 ![alt text](README_Images/AAA/image-5.png)
 
 ---
@@ -36,7 +38,7 @@
 ![407](README_Images/其他/image-53.png)
 ![alt text](README_Images/AAA/image-17.png)
 ![alt text](README_Images/AAA/image-18.png)
-![469](README_Images/AAA/image-14.png)
+
 
 ![625](README_Images/AAA/image-19.png)
 ![alt text](README_Images/AAA/image-20.png)
