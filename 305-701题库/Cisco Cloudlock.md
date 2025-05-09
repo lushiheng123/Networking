@@ -1,4 +1,4 @@
-![alt text](<README_Images/Cisco Cloudlock/image-4.png>)
+![4](<README_Images/Cisco Cloudlock/image-4.png>)
 ![alt text](<README_Images/Cisco Cloudlock/image-1.png>)
 ![alt text](<README_Images/Cisco Cloudlock/image-2.png>)
 
@@ -19,3 +19,5 @@
 ![alt text](<README_Images/Cisco Cloudlock/image-14.png>)
 
 ![996](<README_Images/Cisco Cloudlock/image-15.png>)
+![alt text](<README_Images/Cisco Cloudlock/image-16.png>)
+![alt text](<README_Images/Cisco Cloudlock/image-17.png>)
