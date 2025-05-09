@@ -1,4 +1,4 @@
-![alt text](README_Images/CI-CD/image.png)
+![162](README_Images/CI-CD/image.png)
 
 # 选 B
 

@@ -14,8 +14,6 @@
 ![alt text](<README_Images/Cisco AMP/image-9.png>)
 ![alt text](<README_Images/Cisco AMP/image-10.png>)
 
-![67](<README_Images/Cisco AMP/image-25.png>)
-
 ![alt text](<README_Images/Cisco AMP/image-12.png>)
 ![alt text](<README_Images/Cisco AMP/image-13.png>)
 
@@ -23,9 +21,11 @@
 ![alt text](<README_Images/Cisco AMP/image-15.png>)
 
 ![alt text](<README_Images/Cisco AMP/image-16.png>)
-选 A
+
+# 选 A
+
 ![alt text](<README_Images/Cisco AMP/image-17.png>)
-![alt text](<README_Images/Cisco AMP/image-18.png>)
+![168](<README_Images/Cisco AMP/image-18.png>)
 
 ![alt text](<README_Images/Cisco AMP/image-19.png>)
 ![alt text](<README_Images/Cisco AMP/image-20.png>)
@@ -91,6 +91,9 @@
 ![alt text](<README_Images/Cisco AMP/image-67.png>)
 
 ![634](<README_Images/Cisco AMP/image-68.png>)
+
+# 选 A
+
 ![alt text](<README_Images/Cisco AMP/image-69.png>)
 
 ![654](<README_Images/Cisco AMP/image-70.png>)
