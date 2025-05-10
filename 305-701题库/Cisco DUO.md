@@ -11,10 +11,6 @@
 
 ![alt text](<README_Images/Cisco DUO/image-9.png>)
 
-![541](<README_Images/Cisco DUO/image-11.png>)
-![alt text](<README_Images/Cisco DUO/image-12.png>)
-![alt text](<README_Images/Cisco DUO/image-13.png>)
-![alt text](<README_Images/Cisco DUO/image-14.png>)
 
 ![796](<README_Images/Cisco DUO/image-15.png>)
 ![alt text](<README_Images/Cisco DUO/image-16.png>)
