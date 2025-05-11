@@ -162,6 +162,9 @@
 ![alt text](<README_Images/Cisco Umbrella/image-109.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-110.png>)
 
+![732](README_Images/DNS/image-23.png)
+![alt text](README_Images/DNS/image-24.png)
+![alt text](README_Images/DNS/image-25.png)
 
 ![770](<README_Images/Cisco Umbrella/image-114.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-115.png>)

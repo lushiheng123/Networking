@@ -48,3 +48,9 @@
 ---
 
 如果你在准备部署设计文档、考试复习或产品对比，我可以帮你画出 3 种部署模式的架构图，要我帮你整理一下图示吗？
+
+# 混合模式的优势主要是什么？
+
+![alt text](README_Images/ESA的混合模式/image.png)
+![alt text](README_Images/ESA的混合模式/image-1.png)
+![alt text](README_Images/ESA的混合模式/image-2.png)
