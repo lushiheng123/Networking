@@ -65,6 +65,9 @@
 
 ![521](README_Images/ESA/image-41.png)
 
+# 选 C
+
+![alt text](README_Images/ESA/image-78.png)
 ![571](README_Images/ESA/image-42.png)
 ![alt text](README_Images/ESA/image-43.png)
 ![alt text](README_Images/ESA/image-44.png)
@@ -72,12 +75,7 @@
 ![652](README_Images/ESA/image-45.png)
 ![alt text](README_Images/ESA/image-46.png)
 ![alt text](README_Images/ESA/image-47.png)
-![773](README_Images/其他/image-161.png)
 
-# 选 B
-
-![alt text](README_Images/其他/image-162.png)
-![alt text](README_Images/其他/image-163.png)
 ![752](README_Images/ESA/image-48.png)
 ![alt text](README_Images/ESA/image-49.png)
 ![alt text](README_Images/ESA/image-50.png)
@@ -90,8 +88,6 @@
 ![alt text](README_Images/ESA/image-55.png)
 ![881](README_Images/ESA/image-56.png)
 ![alt text](README_Images/ESA/image-57.png)
-![788](README_Images/CES/image.png)
-![alt text](README_Images/CES/image-1.png)
 
 ![882](README_Images/ESA/image-58.png)
 ![alt text](README_Images/ESA/image-59.png)
@@ -104,10 +100,6 @@
 ![912](README_Images/ESA/image-64.png)
 ![alt text](README_Images/ESA/image-65.png)
 
-![944](README_Images/ESA/image-66.png)
-![alt text](README_Images/ESA/image-67.png)
-![alt text](README_Images/ESA/image-68.png)
-
 ![950](README_Images/ESA/image-69.png)
 ![alt text](README_Images/ESA/image-70.png)
 ![alt text](README_Images/ESA/image-71.png)
@@ -115,5 +107,3 @@
 ![957](README_Images/ESA/image-72.png)
 ![alt text](README_Images/ESA/image-73.png)
 ![alt text](README_Images/ESA/image-74.png)
-![990](README_Images/ESA/image-76.png)
-![alt text](README_Images/ESA/image-77.png)
