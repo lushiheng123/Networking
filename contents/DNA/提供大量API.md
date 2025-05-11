@@ -50,3 +50,8 @@
 要不要继续？
 
 </details>
+
+# 什么是基于意图的 API（intent-based api)
+
+![alt text](README_Images/提供大量API/image.png)
+![alt text](README_Images/提供大量API/image-1.png)

@@ -1,8 +1,9 @@
-![alt text](README_Images/DHCP/image.png)
+![24](README_Images/DHCP/image.png)
 ![alt text](README_Images/DHCP/image-1.png)
 ![alt text](README_Images/DHCP/image-2.png)
 
-![alt text](README_Images/DHCP/image-3.png)
+![165](README_Images/DHCP/image-3.png)
+# 选D
 ![alt text](README_Images/DHCP/image-4.png)
 ![alt text](README_Images/DHCP/image-5.png)
 
@@ -12,6 +13,7 @@
 ![alt text](README_Images/DHCP/image-8.png)
 
 ![518](README_Images/DHCP/image-9.png)
+# 选D
 ![alt text](README_Images/DHCP/image-10.png)
 ![alt text](README_Images/DHCP/image-11.png)
 ![alt text](README_Images/DHCP/image-12.png)
