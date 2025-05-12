@@ -10,5 +10,5 @@
 ![alt text](README_Images/IOS/image-1.png)
 
 ![725](README_Images/FlexVPN/image-6.png)
-![alt text](README_Images/FlexVPN/image-7.png)
-![alt text](README_Images/FlexVPN/image-9.png)
+![alt text](README_Images/FlexVPN/image-10.png)
+![alt text](README_Images/FlexVPN/image-11.png)
