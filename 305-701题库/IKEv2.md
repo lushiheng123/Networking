@@ -9,10 +9,6 @@
 ![alt text](README_Images/IKEv2/image-6.png)
 ![alt text](README_Images/IKEv2/image-7.png)
 
-![550](README_Images/IKEv2/image-8.png)
-![alt text](README_Images/IKEv2/image-9.png)
-![alt text](README_Images/IKEv2/image-10.png)
-
 ![724](README_Images/IKEv2/image-11.png)
 ![alt text](README_Images/IKEv2/image-12.png)
 ![alt text](README_Images/IKEv2/image-13.png)
@@ -20,3 +16,5 @@
 ![920](README_Images/IKEv2/image-14.png)
 ![alt text](README_Images/IKEv2/image-15.png)
 ![alt text](README_Images/IKEv2/image-16.png)
+
+
