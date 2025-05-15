@@ -28,7 +28,7 @@ dnf install -y openssh-server
 
 # dnf repolist 查一下现在的源
 
-# 都下载 wget，通过 fedora 下载
+# 都下载 wget，通过 `fedora` 下载
 
 ```sh
 dnf install -y wget
@@ -47,7 +47,7 @@ dnf install -y ./epel-release-latest-9.noarch.rpm
 
 ![alt text](README_Images/README/image-3.png)
 
-# dnf makecache 更新元数据并测试
+# dnf clean all,dnf makecache 更新元数据并测试
 
 ![alt text](README_Images/README/image-4.png)
 
@@ -120,3 +120,14 @@ chown devops:devops /home/devops/.ssh
 
 ![alt text](README_Images/README/image-17.png)
 ![alt text](README_Images/README/image-18.png)
+
+# dnf install -y python3 python3-pip 安装 python，升级一下包 pip3 install --upgrade pip
+
+# pip3 install ansible，ansible --version 查看版本
+
+![alt text](README_Images/README/image-20.png)
+
+# dnf install -y container-tools
+
+![alt text](README_Images/README/image-21.png)
+![alt text](README_Images/README/image-22.png)
