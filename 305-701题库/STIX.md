@@ -1,4 +1,4 @@
-![alt text](README_Images/STIX/image.png)
+![26](README_Images/STIX/image.png)
 ![alt text](README_Images/STIX/image-1.png)
 ![alt text](README_Images/STIX/image-2.png)
 ![alt text](README_Images/STIX/image-3.png)
