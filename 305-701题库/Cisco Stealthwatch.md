@@ -1,4 +1,4 @@
-![alt text](<README_Images/Cisco Stealthwatch Cloud/image.png>)
+![5](<README_Images/Cisco Stealthwatch Cloud/image.png>)
 ![alt text](<README_Images/Cisco Stealthwatch Cloud/image-1.png>)
 ![84](README_Images/云计算/image-5.png)
 ![alt text](README_Images/云计算/image-6.png)
