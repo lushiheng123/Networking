@@ -11,7 +11,7 @@
 ![alt text](README_Images/WSA/image-9.png)
 ![alt text](README_Images/WSA/image-10.png)
 
-![alt text](README_Images/WSA/image-11.png)
+![64](README_Images/WSA/image-11.png)
 ![alt text](README_Images/WSA/image-12.png)
 ![alt text](README_Images/WSA/image-13.png)
 
@@ -31,7 +31,7 @@
 
 ![164](README_Images/WSA/image-21.png)
 
-![alt text](README_Images/WSA/image-24.png)
+![190](README_Images/WSA/image-24.png)
 ![alt text](README_Images/WSA/image-25.png)
 ![alt text](README_Images/WSA/image-26.png)
 ![alt text](README_Images/WSA/image-27.png)

@@ -4,16 +4,24 @@
 ![alt text](README_Images/ASA/image-3.png)
 ![alt text](README_Images/ASA/image-4.png)
 
+![74](README_Images/ASA/image-63.png)
+![alt text](README_Images/ASA/image-64.png)
+
 ![100](README_Images/ASA/image-5.png)
 
 # 选 A
 
 ![alt text](README_Images/ASA/image-6.png)
 
-![alt text](README_Images/ASA/image-7.png)
+![130](README_Images/ASA/image-7.png)
 ![alt text](README_Images/ASA/image-8.png)
 
-![alt text](README_Images/ASA/image-9.png)
+![139](README_Images/ASA/image-65.png)
+![alt text](README_Images/ASA/image-66.png)
+![alt text](README_Images/ASA/image-67.png)
+![alt text](README_Images/ASA/image-68.png)
+![alt text](README_Images/ASA/image-69.png)
+![142](README_Images/ASA/image-9.png)
 ![alt text](README_Images/ASA/image-10.png)
 ![alt text](README_Images/ASA/image-11.png)
 

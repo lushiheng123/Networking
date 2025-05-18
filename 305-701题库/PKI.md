@@ -1,5 +1,10 @@
-![alt text](README_Images/CA证书颁发/image-4.png)
-选 D
+![125](README_Images/PKI/image-8.png)
+![alt text](README_Images/PKI/image-9.png)
+![alt text](README_Images/PKI/image-10.png)
+![283](README_Images/CA证书颁发/image-4.png)
+
+# 选 D
+
 ![alt text](README_Images/CA证书颁发/image-5.png)
 ![alt text](README_Images/CA证书颁发/image-6.png)
 
