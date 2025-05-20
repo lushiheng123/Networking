@@ -6,6 +6,11 @@
 ![alt text](README_Images/Microsegmentation/image-5.png)
 ![alt text](README_Images/Microsegmentation/image-6.png)
 
+![241](README_Images/Microsegmentation/image-13.png)
+
+![alt text](README_Images/Microsegmentation/image-14.png)
+![alt text](README_Images/Microsegmentation/image-15.png)
+![alt text](README_Images/Microsegmentation/image-16.png)
 ![301](README_Images/Microsegmentation/image-7.png)
 
 # 选 A

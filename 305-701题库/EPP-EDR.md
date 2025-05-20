@@ -12,15 +12,16 @@
 ![alt text](README_Images/EPP-EDR/image-1.png)
 ![alt text](README_Images/EPP-EDR/image-2.png)
 
-![alt text](README_Images/EPP-EDR/image-7.png)
+![90](README_Images/EPP-EDR/image-7.png)
 ![alt text](README_Images/EPP-EDR/image-8.png)
 ![alt text](README_Images/EPP-EDR/image-9.png)
 
-![alt text](README_Images/EPP-EDR/image-10.png)
+![159](README_Images/EPP-EDR/image-10.png)
 ![alt text](README_Images/EPP-EDR/image-11.png)
 ![alt text](README_Images/EPP-EDR/image-12.png)
-
-![alt text](README_Images/EPP-EDR/image-13.png)
+![177](README_Images/EPP-EDR/image-24.png)
+![alt text](README_Images/EPP-EDR/image-25.png)
+![189](README_Images/EPP-EDR/image-13.png)
 ![alt text](README_Images/EPP-EDR/image-14.png)
 
 ![699](README_Images/EPP-EDR/image-15.png)

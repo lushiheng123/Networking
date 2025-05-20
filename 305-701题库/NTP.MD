@@ -1,3 +1,6 @@
+![215](README_Images/NTP/image-12.png)
+![alt text](README_Images/NTP/image-13.png)
+![alt text](README_Images/NTP/image-14.png)
 ![249](README_Images/ASA/image-12.png)
 ![alt text](README_Images/NTP/image-5.png)
 
