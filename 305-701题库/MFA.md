@@ -3,6 +3,12 @@
 
 ![226](README_Images/MFA/image.png)
 
+![285](README_Images/MFA/image-14.png)
+
+# 选 B
+
+![alt text](README_Images/MFA/image-15.png)
+![alt text](README_Images/MFA/image-16.png)
 ![516](README_Images/MFA/image-2.png)
 
 ![621](README_Images/MFA/image-3.png)
