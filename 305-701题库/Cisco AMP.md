@@ -36,8 +36,8 @@
 ![alt text](<README_Images/Cisco AMP/image-80.png>)
 ![alt text](<README_Images/Cisco AMP/image-81.png>)
 ![306](<README_Images/Cisco AMP/image-27.png>)
-![alt text](<README_Images/Cisco AMP/image-28.png>)
-
+![alt text](<README_Images/Cisco AMP/image-82.png>)
+![alt text](<README_Images/Cisco AMP/image-83.png>)
 ![344](<README_Images/Cisco AMP/image-29.png>)
 ![alt text](<README_Images/Cisco AMP/image-30.png>)
 ![alt text](<README_Images/Cisco AMP/image-31.png>)

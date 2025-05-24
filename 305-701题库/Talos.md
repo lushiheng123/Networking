@@ -2,7 +2,9 @@
 ![alt text](README_Images/Talos/image-1.png)
 
 ![307](README_Images/Talos/image-4.png)
-
+![alt text](README_Images/Talos/image-10.png)
+![alt text](README_Images/Talos/image-11.png)
+![alt text](README_Images/Talos/image-12.png)
 ![376](README_Images/Talos/image-5.png)
 ![alt text](README_Images/Talos/image-6.png)
 
