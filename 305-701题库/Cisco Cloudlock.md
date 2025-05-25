@@ -9,6 +9,11 @@
 ![246](<README_Images/Cisco Cloudlock/image-6.png>)
 ![alt text](<README_Images/Cisco Cloudlock/image-7.png>)
 ![alt text](<README_Images/Cisco Cloudlock/image-8.png>)
+![489](<README_Images/Cisco Cloudlock/image-20.png>)
+![alt text](<README_Images/Cisco Cloudlock/image-21.png>)
+![540](README_Images/CASB/image.png)
+![alt text](README_Images/CASB/image-1.png)
+![alt text](README_Images/CASB/image-2.png)
 
 ![586](<README_Images/Cisco Cloudlock/image-9.png>)
 ![alt text](<README_Images/Cisco Cloudlock/image-10.png>)
