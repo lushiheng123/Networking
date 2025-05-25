@@ -104,6 +104,10 @@
 ![alt text](<README_Images/Cisco Umbrella/image-56.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-57.png>)
 
+![316](<README_Images/Cisco Umbrella/image-140.png>)
+![alt text](<README_Images/Cisco Umbrella/image-141.png>)
+![alt text](<README_Images/Cisco Umbrella/image-142.png>)
+![alt text](<README_Images/Cisco Umbrella/image-143.png>)
 ![395](<README_Images/Cisco Umbrella/image-58.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-59.png>)
 
@@ -112,7 +116,7 @@
 
 ![404](<README_Images/Cisco Umbrella/image-62.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-63.png>)
-
+![alt text](<README_Images/Cisco Umbrella/image-144.png>)
 ![430](<README_Images/Cisco Umbrella/image-64.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-65.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-66.png>)

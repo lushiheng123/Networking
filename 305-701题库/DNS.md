@@ -1,20 +1,20 @@
-![alt text](README_Images/DNS/image.png)
+![11](README_Images/DNS/image.png)
 ![alt text](README_Images/DNS/image-1.png)
 
-![alt text](README_Images/DNS/image-2.png)
+![12](README_Images/DNS/image-2.png)
 ![alt text](README_Images/DNS/image-3.png)
 ![alt text](README_Images/DNS/image-4.png)
 ![alt text](README_Images/DNS/image-5.png)
 
-![alt text](README_Images/DNS/image-6.png)
+![69](README_Images/DNS/image-6.png)
 ![alt text](README_Images/DNS/image-7.png)
 ![alt text](README_Images/DNS/image-8.png)
 
-![alt text](README_Images/DNS/image-9.png)
+![113](README_Images/DNS/image-9.png)
 ![alt text](README_Images/DNS/image-10.png)
 ![alt text](README_Images/DNS/image-11.png)
 
-![alt text](README_Images/DNS/image-12.png)
+![128](README_Images/DNS/image-12.png)
 ![alt text](README_Images/DNS/image-13.png)
 
 ![232](README_Images/DNS/image-14.png)
@@ -23,7 +23,10 @@
 
 ![alt text](README_Images/DNS/image-15.png)
 ![alt text](README_Images/DNS/image-16.png)
-
+![325](README_Images/DNS/image-26.png)
+![alt text](README_Images/DNS/image-27.png)
+![alt text](README_Images/DNS/image-28.png)
+![alt text](README_Images/DNS/image-29.png)
 ![498](README_Images/DNS/image-17.png)
 ![alt text](README_Images/DNS/image-18.png)
 ![alt text](README_Images/DNS/image-19.png)

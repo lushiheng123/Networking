@@ -4,13 +4,10 @@
 ![alt text](README_Images/SNMP/image-2.png)
 ![alt text](README_Images/SNMP/image-3.png)
 
-![378](README_Images/SNMP/image-4.png)
+![378](README_Images/SNMP/image-19.png)
 
-# 选 A
-
-![alt text](README_Images/SNMP/image-5.png)
-![alt text](README_Images/SNMP/image-6.png)
-
+![alt text](README_Images/SNMP/image-20.png)
+![alt text](README_Images/SNMP/image-21.png)
 ![435](README_Images/SNMP/image-7.png)
 ![alt text](README_Images/SNMP/image-8.png)
 ![alt text](README_Images/SNMP/image-9.png)
