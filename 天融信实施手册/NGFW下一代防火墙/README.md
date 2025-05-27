@@ -1,3 +1,7 @@
+# NGFW
+
+![alt text](README_Images/README/image-4.png)
+
 # 账号 superman，密码 talnet
 
 # 工作模式：透明，路由，混合
