@@ -31,6 +31,12 @@
 ![alt text](README_Images/DNS/image-18.png)
 ![alt text](README_Images/DNS/image-19.png)
 
+![530](README_Images/DNS/image-30.png)
+
+# 选 C
+![alt text](README_Images/DNS/image-31.png)
+![alt text](README_Images/DNS/image-32.png)
+![alt text](README_Images/DNS/image-33.png)
 ![577](README_Images/DNS/image-20.png)
 ![alt text](README_Images/DNS/image-21.png)
 ![alt text](README_Images/DNS/image-22.png)

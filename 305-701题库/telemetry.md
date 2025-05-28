@@ -24,3 +24,7 @@
 ![alt text](README_Images/Telemetry/image-18.png)
 ![alt text](README_Images/Telemetry/image-19.png)
 ![alt text](README_Images/Telemetry/image-20.png)
+![526](README_Images/Telemetry/image-21.png)
+![alt text](README_Images/Telemetry/image-22.png)
+![alt text](README_Images/Telemetry/image-23.png)
+![alt text](README_Images/Telemetry/image-24.png)
