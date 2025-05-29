@@ -43,6 +43,11 @@
 ![alt text](<README_Images/Cisco Stealthwatch Cloud/image-21.png>)
 ![alt text](<README_Images/Cisco Stealthwatch Cloud/image-22.png>)
 
+![583](<README_Images/Cisco Stealthwatch/image-9.png>)
+
+![alt text](<README_Images/Cisco Stealthwatch/image-10.png>)
+![alt text](<README_Images/Cisco Stealthwatch/image-11.png>)
+![alt text](<README_Images/Cisco Stealthwatch/image-12.png>)
 ![820](<README_Images/Cisco Stealthwatch Cloud/image-23.png>)
 ![alt text](<README_Images/Cisco Stealthwatch Cloud/image-24.png>)
 ![alt text](<README_Images/Cisco Stealthwatch Cloud/image-25.png>)
