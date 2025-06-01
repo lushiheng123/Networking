@@ -8,3 +8,6 @@
 ![166](README_Images/CI-CD/image-3.png)
 ![alt text](README_Images/CI-CD/image-4.png)
 ![alt text](README_Images/CI-CD/image-5.png)
+![608](README_Images/CI-CD/image-6.png)
+![alt text](README_Images/CI-CD/image-7.png)
+![alt text](README_Images/CI-CD/image-8.png)
