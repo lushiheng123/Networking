@@ -28,6 +28,14 @@
 ![630](<README_Images/Cisco Cloudlock/image-25.png>)
 ![alt text](<README_Images/Cisco Cloudlock/image-26.png>)
 ![alt text](<README_Images/Cisco Cloudlock/image-27.png>)
+
+![813](<README_Images/Cisco Cloudlock/image-28.png>)
+![alt text](<README_Images/Cisco Cloudlock/image-29.png>)
+![alt text](<README_Images/Cisco Cloudlock/image-30.png>)
+
+![815](<README_Images/Cisco Cloudlock/image-31.png>)
+![alt text](<README_Images/Cisco Cloudlock/image-32.png>)
+![alt text](<README_Images/Cisco Cloudlock/image-33.png>)
 ![996](<README_Images/Cisco Cloudlock/image-15.png>)
 ![alt text](<README_Images/Cisco Cloudlock/image-16.png>)
 ![alt text](<README_Images/Cisco Cloudlock/image-17.png>)

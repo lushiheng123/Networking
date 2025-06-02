@@ -15,3 +15,6 @@
 ![alt text](README_Images/NGFW下一代防火墙/image-7.png)
 ![alt text](README_Images/NGFW下一代防火墙/image-8.png)
 ![alt text](README_Images/NGFW下一代防火墙/image-17.png)
+
+![812](README_Images/NGFW下一代防火墙/image-18.png)
+![alt text](README_Images/NGFW下一代防火墙/image-19.png)
