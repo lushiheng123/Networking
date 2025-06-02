@@ -171,9 +171,19 @@
 ![633](<README_Images/Cisco Umbrella/image-96.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-97.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-98.png>)
-
+![alt text](<README_Images/Cisco Umbrella/image-157.png>)
+![alt text](<README_Images/Cisco Umbrella/image-158.png>)
 ![642](<README_Images/Cisco Umbrella/image-99.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-128.png>)
+![alt text](<README_Images/Cisco Umbrella/image-159.png>)
+![alt text](<README_Images/Cisco Umbrella/image-160.png>)
+![alt text](<README_Images/Cisco Umbrella/image-161.png>)
+![alt text](<README_Images/Cisco Umbrella/image-162.png>)
+
+![649](<README_Images/Cisco Umbrella/image-163.png>)
+![alt text](<README_Images/Cisco Umbrella/image-164.png>)
+![alt text](<README_Images/Cisco Umbrella/image-165.png>)
+![alt text](<README_Images/Cisco Umbrella/image-166.png>)
 ![667](<README_Images/Cisco Umbrella/image-100.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-101.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-102.png>)
@@ -191,10 +201,14 @@
 ![alt text](<README_Images/Cisco Umbrella/image-109.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-110.png>)
 
+![712](<README_Images/Cisco Umbrella/image-167.png>)
 ![732](README_Images/DNS/image-23.png)
 ![alt text](README_Images/DNS/image-24.png)
 ![alt text](README_Images/DNS/image-25.png)
 
+![754](<README_Images/Cisco Umbrella/image-168.png>)
+![alt text](<README_Images/Cisco Umbrella/image-169.png>)
+![alt text](<README_Images/Cisco Umbrella/image-170.png>)
 ![770](<README_Images/Cisco Umbrella/image-114.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-115.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-116.png>)
@@ -203,7 +217,10 @@
 
 ![alt text](<README_Images/Cisco Umbrella/image-118.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-119.png>)
-
+![alt text](<README_Images/Cisco Umbrella/image-171.png>)
+![alt text](<README_Images/Cisco Umbrella/image-172.png>)
+![alt text](<README_Images/Cisco Umbrella/image-173.png>)
+![alt text](<README_Images/Cisco Umbrella/image-174.png>)
 ![831](<README_Images/Cisco Umbrella/image-120.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-121.png>)
 ![alt text](<README_Images/Cisco Umbrella/image-122.png>)

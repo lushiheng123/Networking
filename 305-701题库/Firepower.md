@@ -21,7 +21,13 @@
 ![647](README_Images/Firepower/image-10.png)
 ![alt text](README_Images/Firepower/image-11.png)
 ![alt text](README_Images/Firepower/image-12.png)
-
+![alt text](README_Images/Firepower/image-24.png)
+![alt text](README_Images/Firepower/image-25.png)
+![alt text](README_Images/Firepower/image-26.png)
+![alt text](README_Images/Firepower/image-27.png)
+![778](README_Images/Firepower/image-28.png)
+![alt text](README_Images/Firepower/image-29.png)
+![alt text](README_Images/Firepower/image-30.png)
 ![806](README_Images/Firepower/image-13.png)
 ![alt text](README_Images/Firepower/image-14.png)
 

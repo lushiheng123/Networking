@@ -62,7 +62,6 @@
 ![alt text](README_Images/FMC-FTD/image-72.png)
 ![alt text](README_Images/FMC-FTD/image-73.png)
 
-
 ![534](README_Images/FMC-FTD/image-29.png)
 ![alt text](README_Images/FMC-FTD/image-30.png)
 ![alt text](README_Images/FMC-FTD/image-31.png)
@@ -80,6 +79,9 @@
 ![alt text](README_Images/FMC-FTD/image-38.png)
 
 ![682](README_Images/FMC-FTD/image-39.png)
+
+# 选 B
+
 ![alt text](README_Images/FMC-FTD/image-40.png)
 ![alt text](README_Images/FMC-FTD/image-41.png)
 ![706](README_Images/FMC-FTD/image-42.png)
@@ -88,7 +90,7 @@
 ![779](README_Images/FMC-FTD/image-43.png)
 ![alt text](README_Images/FMC-FTD/image-44.png)
 ![alt text](README_Images/FMC-FTD/image-45.png)
-
+![alt text](README_Images/FMC-FTD/image-78.png)
 ![946](README_Images/FMC-FTD/image-46.png)
 ![alt text](README_Images/FMC-FTD/image-47.png)
 ![alt text](README_Images/FMC-FTD/image-48.png)

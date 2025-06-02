@@ -14,3 +14,8 @@
 
 ![alt text](README_Images/BYOD/image-4.png)
 ![alt text](README_Images/BYOD/image-5.png)
+
+![802](README_Images/BYOD/image-6.png)
+![alt text](README_Images/BYOD/image-7.png)
+![alt text](README_Images/BYOD/image-8.png)
+![alt text](README_Images/BYOD/image-9.png)

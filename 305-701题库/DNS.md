@@ -34,6 +34,7 @@
 ![530](README_Images/DNS/image-30.png)
 
 # 选 C
+
 ![alt text](README_Images/DNS/image-31.png)
 ![alt text](README_Images/DNS/image-32.png)
 ![alt text](README_Images/DNS/image-33.png)
@@ -41,5 +42,15 @@
 ![alt text](README_Images/DNS/image-21.png)
 ![alt text](README_Images/DNS/image-22.png)
 
+![653](README_Images/DNS/image-34.png)
+![alt text](README_Images/DNS/image-35.png)
+![alt text](README_Images/DNS/image-36.png)
+![alt text](README_Images/DNS/image-37.png)
+![alt text](README_Images/DNS/image-38.png)
 ![788](README_Images/CES/image.png)
 ![alt text](README_Images/CES/image-1.png)
+![alt text](README_Images/DNS/image-39.png)
+
+![797](README_Images/DNS/image-40.png)
+![alt text](README_Images/DNS/image-41.png)
+![alt text](README_Images/DNS/image-42.png)
