@@ -26,7 +26,7 @@
 ![alt text](README_Images/其他/image-179.png)
 ![alt text](README_Images/其他/image-180.png)
 ![alt text](README_Images/其他/image-181.png)
-
+![alt text](README_Images/STIX/image-21.png)
 ![877](README_Images/STIX/image-14.png)
 ![alt text](README_Images/STIX/image-15.png)
 

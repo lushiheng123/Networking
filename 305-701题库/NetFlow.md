@@ -74,6 +74,14 @@
 ![810](README_Images/NetFlow/image-68.png)
 ![alt text](README_Images/NetFlow/image-69.png)
 ![alt text](README_Images/NetFlow/image-70.png)
+![842](README_Images/NetFlow/image-71.png)
+
+# 选 DE
+
+![alt text](README_Images/NetFlow/image-72.png)
+
+![850](README_Images/NetFlow/image-73.png)
+![alt text](README_Images/NetFlow/image-74.png)
 ![870](README_Images/NetFlow/image-29.png)
 
 # 选 AE
