@@ -89,6 +89,8 @@
 ![alt text](README_Images/NetFlow/image-30.png)
 ![alt text](README_Images/NetFlow/image-31.png)
 
+![alt text](README_Images/NetFlow/image-75.png)
+![alt text](README_Images/NetFlow/image-76.png)
 ![904](README_Images/NetFlow/image-32.png)
 
 # 选 CD
