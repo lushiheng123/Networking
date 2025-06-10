@@ -1,9 +1,9 @@
-# usbkey 连接后再登录管理界面 superman/talent
+# usbkey 连接后再登录管理界面三权 admin/talent（记得改密码）
 
 ![alt text](README_Images/README/image.png)
 ![alt text](README_Images/README/image-1.png)
 
-# 分为单机部署和分布式部署
+# 分为单机部署和分布式部署(一般都是一台)
 
 ## 单机部署网络
 
