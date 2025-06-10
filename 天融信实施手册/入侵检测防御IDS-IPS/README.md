@@ -1,6 +1,7 @@
 # IDP 入侵防御，系统管理员 （admin/talent）、 安全审计员（auditor/talent）、 安全保密员（grantor/talent）。
 # 缺省eth0(MG)：192.168.1.254
 
+
 ## 操作系统：天融信自主知识产权的下一代安全操作系统—NGTOS
 
 ## 经典模式
