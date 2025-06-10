@@ -30,6 +30,10 @@
 
 # 选 DE
 
+
+![alt text](README_Images/SNMP/image-30.png)
+![alt text](README_Images/SNMP/image-31.png)
+![alt text](README_Images/SNMP/image-32.png)
 ![1003](README_Images/SNMP/image-15.png)
 
 # 选 AD

@@ -34,7 +34,11 @@
 ![alt text](README_Images/CoA/image-31.png)
 ![874](README_Images/CoA/image-19.png)
 ![alt text](README_Images/CoA/image-20.png)
-
+![878](README_Images/CoA/image-32.png)
+![alt text](README_Images/CoA/image-33.png)
+![alt text](README_Images/CoA/image-34.png)
+![alt text](README_Images/CoA/image-35.png)
+![alt text](README_Images/CoA/image-36.png)
 ![940](README_Images/CoA/image-21.png)
 ![alt text](README_Images/CoA/image-22.png)
 ![alt text](README_Images/CoA/image-23.png)
