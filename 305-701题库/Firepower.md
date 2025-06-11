@@ -35,6 +35,11 @@
 ![864](README_Images/Firepower/image-33.png)
 ![alt text](README_Images/Firepower/image-34.png)
 ![alt text](README_Images/Firepower/image-35.png)
+
+![887](README_Images/Firepower/image-36.png)
+![alt text](README_Images/Firepower/image-37.png)
+![alt text](README_Images/Firepower/image-38.png)
+![alt text](README_Images/Firepower/image-39.png)
 ![907](README_Images/Firepower/image-15.png)
 ![alt text](README_Images/Firepower/image-16.png)
 ![alt text](README_Images/Firepower/image-17.png)
