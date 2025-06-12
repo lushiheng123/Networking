@@ -146,3 +146,5 @@
 ![alt text](<README_Images/Cisco AMP/image-125.png>)
 ![894](<README_Images/Cisco AMP/image-77.png>)
 ![alt text](<README_Images/Cisco AMP/image-78.png>)
+![alt text](<README_Images/Cisco AMP/image-126.png>)
+![alt text](<README_Images/Cisco AMP/image-127.png>)

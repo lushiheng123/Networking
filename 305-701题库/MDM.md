@@ -18,11 +18,12 @@
 # 选 AE
 
 ![alt text](README_Images/MDM/image-10.png)
-
+![alt text](README_Images/MDM/image-31.png)
+![alt text](README_Images/MDM/image-32.png)
 ![906](README_Images/MDM/image-11.png)
 ![alt text](README_Images/MDM/image-12.png)
 ![alt text](README_Images/MDM/image-13.png)
-
+![alt text](README_Images/MDM/image-33.png)
 ![971](README_Images/MDM/image-14.png)
 ![alt text](README_Images/MDM/image-15.png)
 ![alt text](README_Images/MDM/image-16.png)

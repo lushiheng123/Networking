@@ -96,11 +96,10 @@
 ![alt text](README_Images/NetFlow/image-78.png)
 ![904](README_Images/NetFlow/image-32.png)
 
-# 选 CD
+# 选 AD
 
-![alt text](README_Images/NetFlow/image-33.png)
-![alt text](README_Images/NetFlow/image-34.png)
-
+![alt text](README_Images/NetFlow/image-79.png)
+![alt text](README_Images/NetFlow/image-80.png)
 ![923](README_Images/NetFlow/image-35.png)
 ![alt text](README_Images/NetFlow/image-36.png)
 ![alt text](README_Images/NetFlow/image-37.png)
