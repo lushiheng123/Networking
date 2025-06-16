@@ -55,3 +55,9 @@
 ![alt text](README_Images/DNS/image-41.png)
 ![alt text](README_Images/DNS/image-42.png)
 
+![914](README_Images/DNS/image-43.png)
+![alt text](README_Images/DNS/image-44.png)
+![alt text](README_Images/DNS/image-45.png)
+![alt text](README_Images/DNS/image-46.png)
+![alt text](README_Images/DNS/image-47.png)
+![alt text](README_Images/DNS/image-48.png)

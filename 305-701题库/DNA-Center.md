@@ -44,11 +44,11 @@
 ![921](README_Images/DNA-Center/image-25.png)
 ![alt text](README_Images/DNA-Center/image-26.png)
 ![alt text](README_Images/DNA-Center/image-27.png)
-
+![alt text](README_Images/DNA-Center/image-58.png)
 ![930](README_Images/DNA-Center/image-28.png)
 ![alt text](README_Images/DNA-Center/image-29.png)
 ![alt text](README_Images/DNA-Center/image-30.png)
-
+![alt text](README_Images/DNA-Center/image-59.png)
 ![943](README_Images/DNA-Center/image-31.png)
 ![alt text](README_Images/DNA-Center/image-32.png)
 ![alt text](README_Images/DNA-Center/image-33.png)

@@ -153,7 +153,8 @@
 ![919](README_Images/ISE/image-62.png)
 ![alt text](README_Images/ISE/image-63.png)
 ![alt text](README_Images/ISE/image-64.png)
-
+![alt text](README_Images/ISE/image-138.png)
+![alt text](README_Images/ISE/image-139.png)
 ![927](README_Images/ISE/image-65.png)
 
 # 选 CE
@@ -166,11 +167,11 @@
 
 ![alt text](README_Images/ISE/image-68.png)
 ![alt text](README_Images/ISE/image-69.png)
-
+![alt text](README_Images/ISE/image-140.png)
 ![929](README_Images/ISE/image-70.png)
 ![alt text](README_Images/ISE/image-71.png)
 ![alt text](README_Images/ISE/image-72.png)
-
+![alt text](README_Images/ISE/image-141.png)
 ![939](README_Images/ISE/image-73.png)
 ![alt text](README_Images/ISE/image-74.png)
 
