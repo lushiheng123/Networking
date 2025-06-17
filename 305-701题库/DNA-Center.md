@@ -52,7 +52,7 @@
 ![943](README_Images/DNA-Center/image-31.png)
 ![alt text](README_Images/DNA-Center/image-32.png)
 ![alt text](README_Images/DNA-Center/image-33.png)
-
+![alt text](README_Images/DNA-Center/image-60.png)
 ![958](README_Images/DNA-Center/image-34.png)
 ![alt text](README_Images/DNA-Center/image-35.png)
 ![alt text](README_Images/DNA-Center/image-36.png)

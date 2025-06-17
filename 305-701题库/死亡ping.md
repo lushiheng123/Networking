@@ -1,3 +1,6 @@
 ![935](README_Images/其他2/image-13.png)
+![alt text](README_Images/死亡ping/image.png)
+![alt text](README_Images/死亡ping/image-2.png)
+![alt text](README_Images/死亡ping/image-1.png)
 ![alt text](README_Images/其他2/image-14.png)
 ![alt text](README_Images/其他2/image-15.png)

@@ -27,3 +27,8 @@
 # 选 BC
 
 ![alt text](README_Images/NGIPS/image-19.png)
+![948](README_Images/NGIPS/image-22.png)
+![alt text](README_Images/NGIPS/image-23.png)
+![alt text](README_Images/NGIPS/image-24.png)
+![alt text](README_Images/NGIPS/image-25.png)
+![alt text](README_Images/NGIPS/image-26.png)
