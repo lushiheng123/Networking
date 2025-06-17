@@ -6,7 +6,24 @@
 
 ![alt text](README_Images/README/image.png)
 
-# 两种部署模式：离线检测（旁挂端口镜像）和 web 保护（过 waf)
+# 4 种部署模式
 
-![alt text](README_Images/README/image-2.png)
+## Web 保护
 
+![alt text](README_Images/README/image-3.png)
+
+## L4 服务器负载均衡模式
+
+![alt text](README_Images/README/image-4.png)
+
+## 旁挂的离线检测模式（只监控报警，不阻断）
+
+![alt text](README_Images/README/image-5.png)
+
+## 反向代理模式
+
+![alt text](README_Images/README/image-6.png)
+
+## 透明代理模式
+
+![alt text](README_Images/README/image-7.png)
