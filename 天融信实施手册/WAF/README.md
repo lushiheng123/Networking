@@ -10,4 +10,3 @@
 
 ![alt text](README_Images/README/image-2.png)
 
-# 如何部署策略：添加服务器组对象-->加 new policy 标准安全策略--->添加服务器策略
