@@ -33,3 +33,4 @@
 ![alt text](README_Images/STIX/image-23.png)
 ![934](README_Images/STIX/image-16.png)
 ![alt text](README_Images/STIX/image-17.png)
+![alt text](README_Images/STIX/image-24.png)
