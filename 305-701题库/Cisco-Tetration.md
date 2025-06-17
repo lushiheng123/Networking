@@ -59,3 +59,6 @@
 # 选 C
 
 ![alt text](README_Images/Cisco-Tetration/image-36.png)
+![983](README_Images/Cisco-Tetration/image-42.png)
+![alt text](README_Images/Cisco-Tetration/image-43.png)
+![alt text](README_Images/Cisco-Tetration/image-44.png)

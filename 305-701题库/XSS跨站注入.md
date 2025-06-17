@@ -28,7 +28,17 @@
 ![858](README_Images/XSS跨站注入/image-11.png)
 
 # 选 BD
+
 ![alt text](README_Images/XSS跨站注入/image-25.png)
 ![alt text](README_Images/XSS跨站注入/image-26.png)
 ![982](README_Images/XSS跨站注入/image-12.png)
 ![alt text](README_Images/XSS跨站注入/image-13.png)
+![alt text](README_Images/XSS跨站注入/image-27.png)
+![alt text](README_Images/XSS跨站注入/image-28.png)
+![986](README_Images/XSS跨站注入/image-29.png)
+
+# 选 ACD
+
+![alt text](README_Images/XSS跨站注入/image-30.png)
+![alt text](README_Images/XSS跨站注入/image-31.png)
+![alt text](README_Images/XSS跨站注入/image-32.png)

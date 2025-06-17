@@ -8,8 +8,6 @@
 ![489](README_Images/Cloudlock/image-5.png)
 ![alt text](README_Images/Cloudlock/image-6.png)
 
-
-
 ![776](README_Images/Cloudlock/image-7.png)
 ![alt text](README_Images/Cloudlock/image-8.png)
 ![alt text](README_Images/Cloudlock/image-9.png)
@@ -17,3 +15,9 @@
 ![815](README_Images/Cloudlock/image-10.png)
 ![alt text](README_Images/Cloudlock/image-11.png)
 ![alt text](README_Images/Cloudlock/image-12.png)
+![996](README_Images/Cloudlock/image-13.png)
+
+# 选 BC
+![alt text](README_Images/Cloudlock/image-15.png)
+![alt text](README_Images/Cloudlock/image-16.png)
+![alt text](README_Images/Cloudlock/image-14.png)
