@@ -1,3 +1,7 @@
+![110](README_Images/持续集成和持续部署/image.png)
+![alt text](README_Images/持续集成和持续部署/image-1.png)
+![alt text](README_Images/持续集成和持续部署/image-2.png)
+
 ![162](README_Images/CI-CD/image.png)
 
 # 选 B
