@@ -12,17 +12,19 @@
 
 ---
 
-![alt text](README_Images/AAA/image-4.png)
+![78](README_Images/AAA/image-4.png)
 
 # 答案是 B
 
 ![alt text](README_Images/AAA/image-26.png)
+![alt text](README_Images/AAA/image-34.png)
 
 ---
 
 ![alt text](README_Images/AAA/image-6.png)
 
-![alt text](README_Images/AAA/image-7.png)
+![115](README_Images/AAA/image-7.png)
+![alt text](README_Images/AAA/image-35.png)
 ![alt text](README_Images/AAA/image-8.png)
 ![alt text](README_Images/AAA/image-9.png)
 ![alt text](README_Images/AAA/image-10.png)
@@ -52,3 +54,4 @@
 ![703](README_Images/AAA/image-22.png)
 ![alt text](README_Images/AAA/image-23.png)
 ![alt text](README_Images/AAA/image-24.png)
+![alt text](README_Images/AAA/image-36.png)
