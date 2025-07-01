@@ -3,7 +3,20 @@
 ![alt text](README_Images/SDN/image-2.png)
 ![alt text](README_Images/SDN/image-3.png)
 ![alt text](README_Images/SDN/image-4.png)
+![110](README_Images/持续集成和持续部署/image.png)
+![alt text](README_Images/持续集成和持续部署/image-1.png)
+![alt text](README_Images/持续集成和持续部署/image-2.png)
 
+![162](README_Images/CI-CD/image.png)
+
+# 选 B
+
+![alt text](README_Images/CI-CD/image-1.png)
+![alt text](README_Images/CI-CD/image-2.png)
+
+![166](README_Images/CI-CD/image-3.png)
+![alt text](README_Images/CI-CD/image-4.png)
+![alt text](README_Images/CI-CD/image-5.png)
 ![262](README_Images/SDN/image-5.png)
 ![alt text](README_Images/SDN/image-6.png)
 ![alt text](README_Images/SDN/image-7.png)
@@ -19,6 +32,9 @@
 ![490](README_Images/SDN/image-14.png)
 ![alt text](README_Images/SDN/image-15.png)
 
+![608](README_Images/CI-CD/image-6.png)
+![alt text](README_Images/CI-CD/image-7.png)
+![alt text](README_Images/CI-CD/image-8.png)
 ![846](README_Images/SDN/image-16.png)
 ![alt text](README_Images/SDN/image-17.png)
 ![alt text](README_Images/SDN/image-18.png)
