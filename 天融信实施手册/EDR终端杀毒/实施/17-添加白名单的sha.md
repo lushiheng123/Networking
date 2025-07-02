@@ -6,8 +6,14 @@ sha1sum +文件名
 
 ![alt text](README_Images/17-添加白名单的sha/image-1.png)
 
+# linux 通过 md5sum 查看
+
+![alt text](README_Images/17-添加白名单的sha/image-3.png)
+
 # win 系统通过 certutil -hashfile+路径查看 sha
 
 ![alt text](README_Images/17-添加白名单的sha/image.png)
+
 # 然后在策略中心-安全策略-部门策略里添加黑白名单
+
 ![alt text](README_Images/17-添加白名单的sha/image-2.png)
