@@ -1,0 +1,4 @@
+{
+  "github.copilot.chat.completionContext.typescript.mode": "on",
+  "github.copilot.chat.agent.thinkingTool": true
+}
