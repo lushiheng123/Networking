@@ -1,0 +1,28 @@
+#!/bin/bash
+sudo cat > /etc/network/interfaces << EOF
+
+auto ens3
+iface ens3 inet static
+    address 192.168.1.1
+    gateway 192.168.1.254
+    netmask 255.255.255.0
+    network 192.168.1.0
+EOF
+
+
+#!/bin/bash
+sudo cat > /etc/hostname << EOF
+SRV1
+EOF
+
+#!/bin/bash
+sudo cat > /var/www/html/index.html << EOF
+<html>
+<head>
+<title>This is Server 1</title>
+</head>
+<body style="background-color:yellow;">
+<h1 style="color:red;">THIS IS SERVER 1</h1>
+</body>
+</html>
+EOF

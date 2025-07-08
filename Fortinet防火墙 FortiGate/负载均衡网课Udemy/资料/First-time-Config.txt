@@ -1,0 +1,20 @@
+config system global
+set hostname FW
+end
+config system interface 
+edit port1 
+set allowaccess https http ping ssh 
+set mode static 
+set ip 192.168.100.200/24
+end
+
+-------------------------------------
+config system global 
+set hostname FortiADC
+end
+config system interface 
+edit port1 
+set allowaccess https http ping ssh 
+set ip 192.168.100.210/24
+end
+
