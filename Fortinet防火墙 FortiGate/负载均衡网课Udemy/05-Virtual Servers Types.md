@@ -19,8 +19,13 @@
 ![alt text](<README_Images/05-Virtual Servers Types/image-6.png>)
 
 # 四层传输层
+
 ![alt text](<README_Images/05-Virtual Servers Types/image-7.png>)
 ![alt text](<README_Images/05-Virtual Servers Types/image-8.png>)
 ![alt text](<README_Images/05-Virtual Servers Types/image-9.png>)
 ![alt text](<README_Images/05-Virtual Servers Types/image-10.png>)
-# 
+
+# 二层数据链路层
+![alt text](<README_Images/05-Virtual Servers Types/image-11.png>)
+![alt text](<README_Images/05-Virtual Servers Types/image-12.png>)
+![alt text](<README_Images/05-Virtual Servers Types/image-13.png>)
