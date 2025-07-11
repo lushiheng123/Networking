@@ -2,6 +2,12 @@
 
 ![alt text](README_Images/README/image-1.png)
 
+![alt text](README_Images/README/image-8.png)
+
+# 放在 Web 应用的后面，或则 Web 服务器的前面
+
+![alt text](README_Images/README/image-9.png)
+
 # WAF(Web 应用安全防护系统)
 
 ![alt text](README_Images/README/image.png)
