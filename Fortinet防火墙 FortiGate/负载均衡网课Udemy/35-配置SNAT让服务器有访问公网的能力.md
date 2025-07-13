@@ -17,3 +17,7 @@
 # 发现通了
 
 ![alt text](README_Images/35-配置SNAT让服务器有访问公网的能力/image-5.png)
+
+# 抓包结果
+
+![alt text](README_Images/35-配置SNAT让服务器有访问公网的能力/image-6.png)
