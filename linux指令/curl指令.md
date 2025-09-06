@@ -1,0 +1,1 @@
+# curl --requset GET www.baidu.com 显示GET请求信息
