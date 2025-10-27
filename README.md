@@ -3,6 +3,7 @@
 ```sh
 git init
 git checkout -b AWS
+# 或者git switch -c AWS
 git add .
 git commit -m "first commit"
 git remote add origin git@github.com:lushiheng123/Networking.git
