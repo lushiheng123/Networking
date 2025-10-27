@@ -1,0 +1,1 @@
+![alt text](README_Images/7-AMI镜像/image.png)
