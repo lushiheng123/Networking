@@ -1,3 +1,9 @@
 # 1. BFD 有几种报文？
 
-![alt text](images/面试题---BFD原理/image-2.png)
+![alt text](README_Images/BFD报文/{51247AF7-585D-4C97-B0F7-4DF2E80CBDF7}.png)
+
+# 2.BFD的报文结构？
+![alt text](README_Images/BFD报文/{C4F4129A-8EFE-4BDF-BBD1-A8056BCF145D}.png)
+![alt text](README_Images/BFD报文/{19C92766-6717-4216-BFBE-CCD4540EA67A}.png)
+![alt text](README_Images/BFD报文/{DC1803FD-CE43-41A6-B86E-AAD5B5A05674}.png)
+![alt text](README_Images/BFD报文/{2BCBEFE2-4496-4B9A-8B5B-B5FE6BC6B487}.png)

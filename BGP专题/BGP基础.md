@@ -1,4 +1,4 @@
-# 1. BGP 有哪些报文？
+# 1. BGP 有哪些报文？(TCP 179)
 
 ![alt text](image.png)
 ![alt text](image-1.png)
