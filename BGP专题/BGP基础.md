@@ -13,10 +13,6 @@
 
 ![alt text](images/面试题---BGP基础/image-2.png)
 
-# 6. BGP 怎么判断路由失效/路由衰减机制？
-
-![alt text](images/面试题---BGP基础/image-7.png)
-![alt text](images/面试题---BGP基础/image-8.png)
 
 # 9.BGP 邻居失效的原因？
 
