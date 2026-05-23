@@ -8,9 +8,6 @@
 
 ![alt text](images/面试题---BGP基础/image-13.png)
 
-# 3. BGP 怎么认证？
-
-![alt text](images/面试题---BGP基础/image-14.png)
 
 # 4. AS 号有几位？AS23456 是什么？
 
