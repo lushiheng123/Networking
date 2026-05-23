@@ -16,8 +16,10 @@
 ![alt text](README_Images/BGP学习和通告/{5B58E5CA-30EB-4575-9220-38296856701E}.png)
 # 7. 什么是 BGP 同步？
 
-![alt text](images/面试题---BGP基础/image-9.png)
-
+![alt text](README_Images/BGP学习和通告/{9EB5B0E7-37A2-4F55-B507-83922E069E34}.png)
+![alt text](README_Images/BGP学习和通告/{9482578D-2770-45BF-A010-449BCC1E24C8}.png)
+#  为什么要关闭同步？
+![alt text](README_Images/BGP学习和通告/{772DFAE1-1950-4C66-9D11-B0F89E398758}.png)
 # IBGP 通告和 EBGP 通告的区别？
 
 ![alt text](images/面试题---BGP学习和通告/image-1.png)

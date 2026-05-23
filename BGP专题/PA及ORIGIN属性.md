@@ -1,3 +1,8 @@
+# 3. BGP origin 属性有什么用？
+
+![alt text](image-9.png)
+
+
 # PA和Origin属性的关系是什么？
 ![alt text](README_Images/PA及ORIGIN属性/{12732B7C-6C94-4C8A-ADE6-E5439D6693D7}.png)
 
