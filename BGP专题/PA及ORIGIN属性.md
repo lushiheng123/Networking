@@ -1,0 +1,16 @@
+# PA和Origin属性的关系是什么？
+![alt text](README_Images/PA及ORIGIN属性/{12732B7C-6C94-4C8A-ADE6-E5439D6693D7}.png)
+
+# Origin属性作用？包含哪些值？
+![alt text](README_Images/PA及ORIGIN属性/{D01AE8B2-EEAB-4927-A219-7FC9FD260D7C}.png)
+![alt text](README_Images/PA及ORIGIN属性/{BE27C8E3-475F-4992-8A17-82AB32DE7911}.png)
+
+# 用AS_PATH和ORIGIN属性控制选路？
+![alt text](README_Images/PA及ORIGIN属性/{21778417-4856-4985-B183-C984C125ED3B}.png)
+
+# ORIGIN属于公认必遵属性，怎么体现？
+![alt text](README_Images/PA及ORIGIN属性/{1D5B14D0-87FA-405A-ACB6-30C32CF2E66B}.png)
+# TroubleShooting：排查路由选择异常
+![alt text](README_Images/PA及ORIGIN属性/{838E80CE-297E-407D-BB2F-74021EFD2863}.png)
+
+![alt text](README_Images/PA及ORIGIN属性/{59B9E7C1-0871-479F-9F91-8FD7934DB5B9}.png)
