@@ -1,3 +1,6 @@
+# IPSec sa是什么
+![alt text](<images/面试题---IPSEC SA/image-3.png>)
+
 # 1. ipsec sa 里面都有哪些内容？
 
 ![alt text](<images/面试题---IPSEC SA/image.png>)
@@ -12,4 +15,3 @@
 
 # 4. SA 是单向还是双向的？
 
-![alt text](<images/面试题---IPSEC SA/image-3.png>)

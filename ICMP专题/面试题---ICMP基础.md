@@ -11,6 +11,3 @@
 
 ![alt text](images/面试题---ICMP基础/image-3.png)
 
-# 4. ICMP 报文结构？
-
-![alt text](images/面试题---ICMP基础/image-2.png)
