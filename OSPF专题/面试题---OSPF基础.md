@@ -1,5 +1,6 @@
 # 协议号89（不是端口89）
-
+# 0. ospf的核心原则？
+![alt text](README_Images/面试题---OSPF基础/{A43F0335-1A33-4326-8879-69CC5D8DF00E}.png)
 # 1. OSPF 网络类型？
 
 ![alt text](image-5.png)

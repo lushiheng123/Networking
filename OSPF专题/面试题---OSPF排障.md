@@ -1,7 +1,9 @@
 # 1. 一端广播类型，一端 P2P 能建立邻居吗？
 
-![alt text](images/面试题---OSPF排障/image.png)
+![alt text](README_Images/面试题---OSPF排障/{2FC2049C-5046-4862-BAE4-082101EC2B2C}.png)
 
+# 其他情况一般是失败的
+![alt text](README_Images/面试题---OSPF排障/image.png)
 # 2. OSPF 邻居建立失败的原因？
 
 ![alt text](images/面试题---OSPF排障/image-1.png)
