@@ -4,7 +4,7 @@
 # 1. OSPF DD 报文的作用？
 
 ![alt text](images/面试题---DD报文/image-4.png)
-
+![alt text](README_Images/面试题---DD报文/{23990F7C-B28C-4FD0-BBEC-5B2279BAEC96}.png)
 # 2. DD 报文结构？携带标志位？
 
 ![alt text](images/面试题---DD报文/image-1.png)
