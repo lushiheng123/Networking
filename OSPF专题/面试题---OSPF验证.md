@@ -3,5 +3,9 @@
 # 1. ospf 的验证方式？
 
 ![alt text](images/面试题---OSPF验证/image.png)
-
+![alt text](README_Images/面试题---OSPF验证/image.png)
+![alt text](README_Images/面试题---OSPF验证/image-1.png)
 # 2. 验证错误了，会怎么样？
+![alt text](README_Images/面试题---OSPF验证/{05EB85CE-54A8-431C-B04B-EBF706EDE8B8}.png)
+
+![alt text](README_Images/面试题---OSPF验证/{05EB85CE-54A8-431C-B04B-EBF706EDE8B8}-1.png)
