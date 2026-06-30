@@ -1,0 +1,148 @@
+{
+  "name": "bgp-demo",
+  "type": "clab",
+  "clab": {
+    "config": {
+      "prefix": "clab",
+      "mgmt": {
+        "network": "bgp-mgmt",
+        "bridge": "br-a415589d53c1",
+        "ipv4-subnet": "172.30.20.0/24",
+        "ipv4-gw": "172.30.20.1",
+        "ipv6-subnet": "3fff:172:30:20::/64",
+        "ipv6-gw": "3fff:172:30:20::1",
+        "external-access": true
+      }
+    }
+  },
+  "ssh-pub-keys": ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC9lVF3Zs8zivz1nWVN1RWuguj6WFIm/OGQcKom/Wt4dnGw+F2u9xiUA0UbVCueqzEKD1MrrwzjGyr11pzRDp+Uwj9Y6AeZFA9n4gXoAyLm8BqvjOAtV0wbdw+6GZUxJepJm/CZAXJ+AeQdDROtkjnTqzU9Blvpx9KN/Dk+cXphycaAC1Yn8uAhKElOF07ViZ1BQYqYV2gGYuPStF8i1djCj4OD/fBAt0cApOvNZsuzDVqgpYWhJknD1HeKm3hKI1JyEICplMFvUMICJ4pkfrN/ZGj+WNDfY2zkPGZCMZfYGeQCagsIG3Tctwj5JscOCLU43xf3usFiDYYv3LA7942Dfrkoqd9nA2pNf+nzMI9jHJ6NhnkkshzfAStzfMxm7nRRav+kRNqezv6a7//VZGjxHp8ljowggZw6dbUEgRte7AX/jE/jkQSd1gqo03OOUswFquZsoMd9IRa5GCO4vZafq1xssX0VKeUmZoA2RRRAX8wbBr32aSsdAGfiPKaCWdouGsB2CsTUv36gN0Vtk4k1N0NKa95vVrzsGjXbTYqe3cxJva/LLx4W/wAzQMVRhoWXrEBbOs1cceq8Yjlo42O0mKE3L1Tpwwl58SsIXp0yC70RCzLtQyOQY/+KNWnz5as1en3L4I6qGMGeTm+0RrQjDIezvtDiiY6kNEZUTyfAEQ=="],
+  "nodes": {
+    "leaf1": {
+      "index": "0",
+      "shortname": "leaf1",
+      "longname": "clab-bgp-demo-leaf1",
+      "fqdn": "leaf1.bgp-demo.io",
+      "group": "",
+      "labdir": "/mnt/d/代码/学习/IE学习/Github Repo/Networking/BGP专题/BGP实验/clab-bgp-demo/leaf1",
+      "kind": "linux",
+      "image": "frrouting/frr:latest",
+      "mgmt-net": "",
+      "mgmt-intf": "",
+      "mgmt-ipv4-address": "172.30.20.2",
+      "mgmt-ipv4-prefix-length": 24,
+      "mgmt-ipv6-address": "3fff:172:30:20::2",
+      "mgmt-ipv6-prefix-length": 64,
+      "mac-address": "",
+      "labels": {
+        "clab-mgmt-net-bridge": "br-a415589d53c1",
+        "clab-node-group": "",
+        "clab-node-kind": "linux",
+        "clab-node-lab-dir": "/mnt/d/代码/学习/IE学习/Github Repo/Networking/BGP专题/BGP实验/clab-bgp-demo/leaf1",
+        "clab-node-longname": "clab-bgp-demo-leaf1",
+        "clab-node-name": "leaf1",
+        "clab-node-type": "",
+        "clab-owner": "lushiheng",
+        "clab-topo-file": "/mnt/d/代码/学习/IE学习/Github Repo/Networking/BGP专题/BGP实验/bgp-demo.yaml",
+        "containerlab": "bgp-demo"
+      },
+      "port-bindings": [
+      ]
+    },
+    "leaf2": {
+      "index": "1",
+      "shortname": "leaf2",
+      "longname": "clab-bgp-demo-leaf2",
+      "fqdn": "leaf2.bgp-demo.io",
+      "group": "",
+      "labdir": "/mnt/d/代码/学习/IE学习/Github Repo/Networking/BGP专题/BGP实验/clab-bgp-demo/leaf2",
+      "kind": "linux",
+      "image": "frrouting/frr:latest",
+      "mgmt-net": "",
+      "mgmt-intf": "",
+      "mgmt-ipv4-address": "172.30.20.3",
+      "mgmt-ipv4-prefix-length": 24,
+      "mgmt-ipv6-address": "3fff:172:30:20::3",
+      "mgmt-ipv6-prefix-length": 64,
+      "mac-address": "",
+      "labels": {
+        "clab-mgmt-net-bridge": "br-a415589d53c1",
+        "clab-node-group": "",
+        "clab-node-kind": "linux",
+        "clab-node-lab-dir": "/mnt/d/代码/学习/IE学习/Github Repo/Networking/BGP专题/BGP实验/clab-bgp-demo/leaf2",
+        "clab-node-longname": "clab-bgp-demo-leaf2",
+        "clab-node-name": "leaf2",
+        "clab-node-type": "",
+        "clab-owner": "lushiheng",
+        "clab-topo-file": "/mnt/d/代码/学习/IE学习/Github Repo/Networking/BGP专题/BGP实验/bgp-demo.yaml",
+        "containerlab": "bgp-demo"
+      },
+      "port-bindings": [
+      ]
+    },
+    "spine1": {
+      "index": "2",
+      "shortname": "spine1",
+      "longname": "clab-bgp-demo-spine1",
+      "fqdn": "spine1.bgp-demo.io",
+      "group": "",
+      "labdir": "/mnt/d/代码/学习/IE学习/Github Repo/Networking/BGP专题/BGP实验/clab-bgp-demo/spine1",
+      "kind": "linux",
+      "image": "frrouting/frr:latest",
+      "mgmt-net": "",
+      "mgmt-intf": "",
+      "mgmt-ipv4-address": "172.30.20.4",
+      "mgmt-ipv4-prefix-length": 24,
+      "mgmt-ipv6-address": "3fff:172:30:20::4",
+      "mgmt-ipv6-prefix-length": 64,
+      "mac-address": "",
+      "labels": {
+        "clab-mgmt-net-bridge": "br-a415589d53c1",
+        "clab-node-group": "",
+        "clab-node-kind": "linux",
+        "clab-node-lab-dir": "/mnt/d/代码/学习/IE学习/Github Repo/Networking/BGP专题/BGP实验/clab-bgp-demo/spine1",
+        "clab-node-longname": "clab-bgp-demo-spine1",
+        "clab-node-name": "spine1",
+        "clab-node-type": "",
+        "clab-owner": "lushiheng",
+        "clab-topo-file": "/mnt/d/代码/学习/IE学习/Github Repo/Networking/BGP专题/BGP实验/bgp-demo.yaml",
+        "containerlab": "bgp-demo"
+      },
+      "port-bindings": [
+      ]
+    }
+  },
+  "links": [
+    {
+      "endpoints": {
+        "a": {
+          "node": "spine1",
+          "interface": "eth1",
+          "mac": "aa:c1:ab:7a:6d:3f",
+          "peer": "z"
+        },
+        "z": {
+          "node": "leaf1",
+          "interface": "eth1",
+          "mac": "aa:c1:ab:4d:1e:f3",
+          "peer": "a"
+        }
+      }
+    },
+    {
+      "endpoints": {
+        "a": {
+          "node": "spine1",
+          "interface": "eth2",
+          "mac": "aa:c1:ab:4f:75:62",
+          "peer": "z"
+        },
+        "z": {
+          "node": "leaf2",
+          "interface": "eth1",
+          "mac": "aa:c1:ab:a1:73:6a",
+          "peer": "a"
+        }
+      }
+    }
+  ]
+}
