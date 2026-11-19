@@ -1,0 +1,11 @@
+# 配置查看：https://github.com/lushiheng123/Networking/blob/Security/contents/%E8%B7%AF%E7%94%B1%E5%8D%8F%E8%AE%AE%E5%AE%89%E5%85%A8/OSPF%E8%AE%A4%E8%AF%81.md
+
+# 1. ospf 的验证方式？
+
+![alt text](images/OSPF验证/image.png)
+![alt text](images/OSPF验证/image-2.png)
+![alt text](images/OSPF验证/image-1.png)
+# 2. 验证错误了，会怎么样？
+![alt text](images/OSPF验证/{05EB85CE-54A8-431C-B04B-EBF706EDE8B8}.png)
+
+![alt text](images/OSPF验证/{05EB85CE-54A8-431C-B04B-EBF706EDE8B8}-1.png)

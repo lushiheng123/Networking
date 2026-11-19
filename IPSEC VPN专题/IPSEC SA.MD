@@ -1,0 +1,17 @@
+# IPSec sa是什么？（Security Association，安全关联）
+![alt text](<images/IPSEC SA/{8DE37214-8B88-4DFC-A5A5-2BB7CDD9F621}.png>)
+![alt text](<images/IPSEC SA/image-4.png>)
+# 1. ipsec sa 里面都有哪些内容？（只有在IKE协商阶段的时候才能明确看全）
+
+![alt text](<images/IPSEC SA/image.png>)
+![alt text](<images/IPSEC SA/{BD2BF0BA-CAAF-4AC1-B724-596BCCD0E69A}.png>)
+# 2. SA 建立方式？
+
+![alt text](<images/IPSEC SA/image-1.png>)
+
+# 3. SA lifetimes 类型？
+
+![alt text](<images/IPSEC SA/image-2.png>)
+
+# 4. SA 是单向还是双向的？
+

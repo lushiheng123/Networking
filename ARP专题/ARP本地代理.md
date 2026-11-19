@@ -1,0 +1,10 @@
+# 3. ARP 普通代理和本地代理的区别？
+
+![alt text](images/ARP本地代理/image.png)
+![alt text](images/ARP本地代理/image-1.png)
+![alt text](images/ARP代理/image-6.png)
+![alt text](images/ARP代理/image-7.png)
+
+# 云网络/vxlan 中用的哪个代理？
+
+![alt text](images/ARP本地代理/image-2.png)
